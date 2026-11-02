@@ -53,12 +53,12 @@ node scripts/build-laws.mjs
 python3 -m http.server 8080 -d site
 ```
 
-Then open <http://127.0.0.1:8080/>.
+Then open <http://127.0.0.1:8080/>. Routes: `#/` (all laws), `#/law/US_UT`, `#/handouts`, `#/handout/mountain-west`, `#/about`.
 
 Other scripts:
 
 - `python3 scripts/verify-quotes.py` fetches every Source link and checks that each quoted passage appears in it word for word.
-- `python3 scripts/build-map.py <natural-earth.geojson>` regenerates `site/data/map.json`, the pre-projected SVG map. Run it only to change the map geometry. The source is the [Natural Earth 1:50m admin-1](https://github.com/nvkelso/natural-earth-vector/blob/master/geojson/ne_50m_admin_1_states_provinces.geojson) file, which is public domain. Routes: `#/` (all laws), `#/law/US_UT`, `#/handouts`, `#/handout/mountain-west`, `#/about`.
+- `python3 scripts/build-map.py <natural-earth.geojson>` regenerates `site/data/map.json`, the pre-projected SVG map. Run it only to change the map geometry. The source is the [Natural Earth 1:50m admin-1](https://github.com/nvkelso/natural-earth-vector/blob/master/geojson/ne_50m_admin_1_states_provinces.geojson) file, which is public domain.
 
 ## Deploying to GitHub Pages
 

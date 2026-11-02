@@ -100,5 +100,6 @@ What applies to hitchhikers:
 - [NRS 484A.220](https://www.leg.state.nv.us/NRS/NRS-484A.html#NRS484ASec220)
 - [NRS 484A.060](https://www.leg.state.nv.us/NRS/NRS-484A.html#NRS484ASec060)
 - [NRS 484A.7049](https://www.leg.state.nv.us/NRS/NRS-484A.html#NRS484ASec7049)
+- [NRS 484A.900](https://www.leg.state.nv.us/NRS/NRS-484A.html#NRS484ASec900)
 
 > *Not legal advice. Laws change, so check the linked official source before relying on this.*

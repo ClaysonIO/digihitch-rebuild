@@ -30,7 +30,7 @@ export const REGIONS = [
   ["CA", "Northern Canada"],
 ];
 
-const STATUS = ["legal", "restricted", "illegal", "unverified"];
+const STATUS = ["legal", "restricted", "illegal_with_exceptions", "illegal", "unverified"];
 const FREEWAY = ["prohibited", "restricted", "allowed", "unclear"];
 const REQUIRED = [
   "code", "country", "jurisdiction", "abbreviation", "region",

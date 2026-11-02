@@ -5,9 +5,10 @@ A rebuild of **digihitch**, the hitchhiking portal that ran from 2001 to about 2
 This repository starts with that law reference:
 
 - **`resources/laws/`**: one Markdown file per jurisdiction (`<countryCode>_<stateCode>.md`, e.g. `US_UT.md`, `CA_ON.md`). Each file quotes the law verbatim, links to the official source, and explains in plain English what it means for a hitchhiker.
-- **`site/`**: a static, dependency-free web page for GitHub Pages. It lists every jurisdiction, has a page for each one, and has printable handouts by region.
+- **`site/`**: a static, dependency-free web page for GitHub Pages. It has a clickable map of the US and Canada coloured by legal status, a page for each jurisdiction, and printable handouts by region.
 - **`resources/digihitch-original-site.md`**: what the original site contained and what was valuable.
-- **`resources/future-features.md`**: the roadmap for later features.
+- **`resources/future-features.md`**: the roadmap for later features and research follow-ups.
+- **`resources/verification-report.md`**: results of the automated check that quoted law text matches its linked source.
 
 ## Law file format
 
@@ -19,7 +20,7 @@ country: US                      # US or CA
 jurisdiction: Utah
 abbreviation: UT
 region: Mountain West            # see REGIONS in scripts/build-laws.mjs
-status: legal                    # legal | restricted | illegal | unverified
+status: legal                    # legal | restricted | illegal_with_exceptions | illegal | unverified
 freeway_pedestrians: prohibited  # prohibited | restricted | allowed | unclear
 last_verified: 2026-11-02
 key_citations:
@@ -34,6 +35,7 @@ What the status values mean:
 |---|---|
 | `legal` | No statewide or provincial law specifically restricts soliciting rides. General pedestrian rules, such as freeway bans, may still apply. |
 | `restricted` | Soliciting rides is only limited in certain places. The usual case: you may not stand *in the roadway*, but the shoulder or curb is fine. |
+| `illegal_with_exceptions` | A broad ban that covers the shoulder too, but only on some roads (e.g. state-maintained ones) or with legal carve-outs (e.g. county exceptions). |
 | `illegal` | Soliciting rides is prohibited broadly, for example anywhere on a highway including the shoulder. |
 | `unverified` | The law text could not be retrieved and confirmed yet, so no conclusion is drawn. |
 
@@ -51,7 +53,12 @@ node scripts/build-laws.mjs
 python3 -m http.server 8080 -d site
 ```
 
-Then open <http://127.0.0.1:8080/>. Routes: `#/` (all laws), `#/law/US_UT`, `#/handouts`, `#/handout/mountain-west`, `#/about`.
+Then open <http://127.0.0.1:8080/>.
+
+Other scripts:
+
+- `python3 scripts/verify-quotes.py` fetches every Source link and checks that each quoted passage appears in it word for word.
+- `python3 scripts/build-map.py <natural-earth.geojson>` regenerates `site/data/map.json`, the pre-projected SVG map. Run it only to change the map geometry. The source is the [Natural Earth 1:50m admin-1](https://github.com/nvkelso/natural-earth-vector/blob/master/geojson/ne_50m_admin_1_states_provinces.geojson) file, which is public domain. Routes: `#/` (all laws), `#/law/US_UT`, `#/handouts`, `#/handout/mountain-west`, `#/about`.
 
 ## Deploying to GitHub Pages
 

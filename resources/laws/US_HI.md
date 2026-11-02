@@ -4,7 +4,7 @@ country: US
 jurisdiction: Hawaii
 abbreviation: HI
 region: Pacific
-status: illegal
+status: illegal_with_exceptions
 freeway_pedestrians: restricted
 last_verified: 2026-11-02
 key_citations:

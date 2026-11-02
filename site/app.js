@@ -7,12 +7,14 @@
   const STATUS_TEXT = {
     legal: "Legal",
     restricted: "Restricted",
+    illegal_with_exceptions: "Illegal with exceptions",
     illegal: "Illegal",
     unverified: "Unverified",
   };
   const STATUS_HELP = {
     legal: "No statewide/provincial law specifically restricts soliciting rides. General pedestrian rules (like freeway bans) still apply.",
     restricted: "Soliciting rides is limited to certain places or ways. Usually you can't stand in the roadway itself, but the shoulder or curb is fine.",
+    illegal_with_exceptions: "A broad ban covers the shoulder too, but only on some roads (e.g. state-maintained ones) or with legal carve-outs (e.g. county exceptions).",
     illegal: "Soliciting rides is prohibited broadly, for example anywhere on a highway including the shoulder.",
     unverified: "We couldn't retrieve and confirm the law text yet. No conclusion is drawn.",
   };
@@ -69,24 +71,23 @@
   }
 
   /* ---------- Home ---------- */
+  let MAP = null;
+  const mapReady = fetch("data/map.json").then((r) => (r.ok ? r.json() : null)).then((m) => (MAP = m)).catch(() => null);
+
   function renderHome() {
     setActiveNav("home");
     setTitle("");
-    const all = DATA.jurisdictions;
-    const count = (s) => all.filter((j) => j.status === s).length;
     main.innerHTML = `
       <section class="hero">
         <h1>Hitchhiking laws for every US state and Canadian province</h1>
-        <p>The exact statute text, a link to the official source, and a plain-English explanation of what it means for you on the roadside.</p>
+        <p>The exact statute text, a link to the official source, and a plain-English explanation of what it means for you on the roadside. Click a state or province on the map.</p>
       </section>
-      <div class="stats" role="list">
-        <div class="stat" role="listitem"><div class="n">${all.length}</div><div class="l">jurisdictions</div></div>
-        <div class="stat" role="listitem"><div class="n" style="color:var(--legal)">${count("legal")}</div><div class="l">legal</div></div>
-        <div class="stat" role="listitem"><div class="n" style="color:var(--restricted)">${count("restricted")}</div><div class="l">restricted</div></div>
-        <div class="stat" role="listitem"><div class="n" style="color:var(--illegal)">${count("illegal")}</div><div class="l">illegal</div></div>
-        ${count("unverified") ? `<div class="stat" role="listitem"><div class="n" style="color:var(--unverified)">${count("unverified")}</div><div class="l">unverified</div></div>` : ""}
-      </div>
-      <details class="no-print">
+      <section class="map-card" aria-label="Map of hitchhiking law status">
+        <div class="legend-bar" role="group" aria-label="Filter by status"></div>
+        <div class="map-wrap"><div class="map-loading">Loading map…</div></div>
+        <div class="map-tip" role="status" aria-live="polite" hidden></div>
+      </section>
+      <details class="no-print legend-details">
         <summary>What do the labels mean?</summary>
         <div class="legend">
           ${statusesInUse().map((s) => `<div>${pill(s)}<br>${esc(STATUS_HELP[s])}</div>`).join("")}
@@ -105,14 +106,101 @@
       <div id="results"></div>`;
 
     const q = main.querySelector("#q");
-    q.addEventListener("input", () => { state.q = q.value; renderResults(); });
+    q.addEventListener("input", () => { state.q = q.value; update(); });
     main.querySelectorAll("[data-country]").forEach((b) => b.addEventListener("click", () => {
       state.country = b.dataset.country;
       main.querySelectorAll("[data-country]").forEach((x) => x.setAttribute("aria-pressed", String(x === b)));
-      renderResults();
+      update();
     }));
-    main.querySelector("#status").addEventListener("change", (e) => { state.status = e.target.value; renderResults(); });
+    main.querySelector("#status").addEventListener("change", (e) => { state.status = e.target.value; update(); });
+    renderLegendBar();
+    mapReady.then(() => { if (main.querySelector(".map-wrap")) renderMap(); });
     renderResults();
+  }
+
+  function update() {
+    renderResults();
+    renderLegendBar();
+    paintMap();
+  }
+
+  function renderLegendBar() {
+    const bar = main.querySelector(".legend-bar");
+    if (!bar) return;
+    const all = DATA.jurisdictions;
+    bar.innerHTML = statusesInUse().map((s) => {
+      const n = all.filter((j) => j.status === s).length;
+      return `<button type="button" class="legend-btn" data-status="${s}" aria-pressed="${state.status === s}" title="${esc(STATUS_HELP[s])}">
+        <span class="swatch ${s}"></span>${esc(STATUS_TEXT[s])}<span class="count">${n}</span></button>`;
+    }).join("");
+    bar.querySelectorAll(".legend-btn").forEach((b) => b.addEventListener("click", () => {
+      state.status = state.status === b.dataset.status ? "all" : b.dataset.status;
+      const sel = main.querySelector("#status");
+      if (sel) sel.value = state.status;
+      update();
+    }));
+  }
+
+  function renderMap() {
+    const wrap = main.querySelector(".map-wrap");
+    if (!MAP) { wrap.innerHTML = `<p class="map-loading">Map unavailable.</p>`; return; }
+    const chipW = 46, chipH = 24;
+    const maxChipX = Math.max(...MAP.chips.map((c) => c.x + chipW));
+    const vbW = Math.max(MAP.width, maxChipX + 8);
+    const hi = MAP.hawaiiInset;
+    const lab = new Map(MAP.labels.map((l) => [l.code, l]));
+    const name = (code) => (byCode(code) || {}).jurisdiction || code;
+    const parts = [];
+    parts.push(`<rect class="inset" x="${hi.x}" y="${hi.y}" width="${hi.w}" height="${hi.h}" rx="6"></rect>`);
+    for (const sh of MAP.shapes) {
+      parts.push(`<a href="#/law/${sh.code}" class="region-link" data-code="${sh.code}" aria-label="${esc(name(sh.code))}"><path d="${sh.d}"></path></a>`);
+    }
+    for (const c of MAP.chips) {
+      parts.push(`<line class="leader" x1="${c.tx}" y1="${c.ty}" x2="${c.x}" y2="${c.y + chipH / 2}"></line>`);
+    }
+    for (const c of MAP.chips) {
+      const abbr = c.code.split("_")[1];
+      parts.push(`<a href="#/law/${c.code}" class="region-link chip" data-code="${c.code}" aria-label="${esc(name(c.code))}">
+        <rect x="${c.x}" y="${c.y}" width="${chipW}" height="${chipH}" rx="5"></rect>
+        <text x="${c.x + chipW / 2}" y="${c.y + chipH / 2 + 1}">${abbr}</text></a>`);
+    }
+    for (const l of MAP.labels) {
+      if (!l.show) continue;
+      parts.push(`<text class="map-label" data-code="${l.code}" x="${l.x}" y="${l.y}">${l.code.split("_")[1]}</text>`);
+    }
+    wrap.innerHTML = `<svg class="map" viewBox="0 0 ${vbW} ${MAP.height}" role="img" aria-label="Map of the United States and Canada colored by hitchhiking law status">${parts.join("")}</svg>`;
+    const tip = main.querySelector(".map-tip");
+    const show = (code, ev) => {
+      const j = byCode(code);
+      if (!j) return;
+      tip.innerHTML = `<strong>${esc(j.jurisdiction)}</strong> ${pill(j.status)}<div>${esc(FREEWAY_TEXT[j.freeway_pedestrians] || "")}</div>`;
+      tip.hidden = false;
+      const r = main.querySelector(".map-card").getBoundingClientRect();
+      if (ev && ev.clientX) {
+        const x = Math.min(ev.clientX - r.left + 14, r.width - 230);
+        tip.style.left = Math.max(8, x) + "px";
+        tip.style.top = (ev.clientY - r.top + 14) + "px";
+      } else {
+        tip.style.left = "12px"; tip.style.top = "12px";
+      }
+    };
+    wrap.querySelectorAll(".region-link").forEach((a) => {
+      a.addEventListener("mousemove", (e) => show(a.dataset.code, e));
+      a.addEventListener("focus", () => show(a.dataset.code));
+      a.addEventListener("mouseleave", () => { tip.hidden = true; });
+      a.addEventListener("blur", () => { tip.hidden = true; });
+    });
+    paintMap();
+  }
+
+  function paintMap() {
+    const svg = main.querySelector("svg.map");
+    if (!svg) return;
+    svg.querySelectorAll(".region-link").forEach((a) => {
+      const j = byCode(a.dataset.code);
+      const st = j ? j.status : "none";
+      a.setAttribute("class", `region-link ${a.classList.contains("chip") ? "chip " : ""}st-${st}${j && matches(j) ? "" : " dim"}`);
+    });
   }
 
   function matches(j) {

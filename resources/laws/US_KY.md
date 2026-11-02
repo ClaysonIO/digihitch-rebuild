@@ -4,7 +4,7 @@ country: US
 jurisdiction: Kentucky
 abbreviation: KY
 region: South Central
-status: illegal
+status: illegal_with_exceptions
 freeway_pedestrians: prohibited
 last_verified: 2026-11-02
 key_citations:

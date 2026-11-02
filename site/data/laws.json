@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-02T20:54:42.826Z",
+ "generated": "2026-11-02T21:02:47.018Z",
  "regions": [
   {
    "country": "US",
@@ -530,7 +530,7 @@
    "jurisdiction": "Alabama",
    "abbreviation": "AL",
    "region": "South Central",
-   "status": "illegal",
+   "status": "illegal_with_exceptions",
    "freeway_pedestrians": "restricted",
    "last_verified": "2026-11-02",
    "key_citations": [
@@ -580,7 +580,7 @@
    "jurisdiction": "Kentucky",
    "abbreviation": "KY",
    "region": "South Central",
-   "status": "illegal",
+   "status": "illegal_with_exceptions",
    "freeway_pedestrians": "prohibited",
    "last_verified": "2026-11-02",
    "key_citations": [
@@ -1277,7 +1277,7 @@
    "jurisdiction": "Hawaii",
    "abbreviation": "HI",
    "region": "Pacific",
-   "status": "illegal",
+   "status": "illegal_with_exceptions",
    "freeway_pedestrians": "restricted",
    "last_verified": "2026-11-02",
    "key_citations": [

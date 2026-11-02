@@ -16,6 +16,18 @@ Ground rules for everything below:
 - **Statutes are always re-sourced from current official sites**, never copied from the 2002–2008 pages.
 - **No automated Wayback fetching.**
 
+## Progress so far
+
+- **Shipped in v1:** the per-jurisdiction law reference (64 files in `resources/laws/`), the clickable colour-coded status map (#4), and basic printable regional handouts (#1). The handouts are browser print layouts with an option to show or hide the plain-English explanations and to print one jurisdiction per page. QR codes and pre-built PDFs are still to do.
+- **Research follow-ups from the first law pass:**
+  - **Yukon (`CA_YT.md`)** is marked `unverified`. Its Motor Vehicles Act could not be retrieved, because laws.yukon.ca, CanLII and the Internet Archive blocked automated access. A maintainer with a normal browser should quote the pedestrian, definitions and penalty sections.
+  - **Quebec (`CA_QC.md`)** is based on official SAAQ guidance, not statute text, for the same reason (LégisQuébec and CanLII). The articles of the *Highway Safety Code* need to be quoted.
+  - **Unofficial mirrors:** files that quote FindLaw, LawServer, Onecle or Cornell LII say so. Examples are CT, GA, IL, IN, MS, NM, TN and WI, and the regulation text for MA and MI. These should be re-checked against the official site from a browser.
+  - **Federal lands:** 36 CFR § 4.31 bans hitchhiking in US National Park Service areas unless the park designates places for it. This was found while researching DC. It deserves its own "Federal lands" page (NPS, national forests, military bases). Canada's National Parks Highway Traffic Regulations had no ride-soliciting rule.
+  - **Mexico:** the original site covered only the US and Canada. Mexico's traffic rules are set state by state (*reglamentos de tránsito*), which would be a separate research project.
+  - **Local ordinances mentioned but not verified:** Honolulu ROH § 15-17.4, Sioux Falls, Anchorage Municipal Code 9.20.060, Jasper, Toronto expressways and Calgary/Edmonton bylaws. These are candidates for feature #5.
+- **Automated quote check:** `resources/verification-report.md` records which quoted passages were matched word for word against their linked sources.
+
 ---
 
 ## NOW (ship alongside or right after the laws reference)

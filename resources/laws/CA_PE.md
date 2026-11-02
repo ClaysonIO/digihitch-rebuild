@@ -95,6 +95,17 @@ Penalty: a fine of $100 to $500 for soliciting rides on the roadway (Schedule, i
 - Municipal by-laws in Charlottetown and Summerside, and any regulations under s. 310, were not checked.
 - Whether any PEI highway is currently designated controlled-access and signed against pedestrians was not checked.
 
+## Pocket card
+
+**What's allowed:** Don't solicit a ride on the roadway, which includes a paved shoulder. Stand off the roadway: on an unpaved shoulder, verge, sidewalk or pull-off. No provincial statute bans pedestrians from any class of highway.
+
+> **Highway Traffic Act (P.E.I.), s. 193(3)**
+> Soliciting & hitch hiking prohibited
+> (3) No person shall be on a roadway for the purpose of soliciting a ride, employment or business from the occupant of a vehicle.
+
+> **Highway Traffic Act (P.E.I.), s. 1(q.3) "roadway"**
+> (q.3) "roadway" means that portion of a highway improved, designed or ordinarily used for vehicular travel, exclusive of the shoulder unless the shoulder is paved, [...]
+
 ## Sources
 
 - [Highway Traffic Act, R.S.P.E.I. 1988, c. H-5 (Legislative Counsel Office consolidation, current to May 29, 2026, PDF)](https://www.princeedwardisland.ca/sites/default/files/legislation/h-05-highway_traffic_act.pdf)

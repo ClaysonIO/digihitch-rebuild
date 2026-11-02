@@ -129,6 +129,21 @@ Act 2023-245 (2023 H.B. 24) created the "state-maintained roadway or right-of-wa
 - Which specific roads are "maintained by the state" (ALDOT system) was not mapped. Generally that means interstates, U.S. routes and state routes.
 - No ALDOT order under § 32-5A-92 prohibiting pedestrians on specific freeways was retrieved.
 
+## Pocket card
+
+**What's allowed:** Along state-maintained roads, hitchhiking is effectively illegal: the loitering law bars remaining on their right-of-way or within 30 feet of a freeway interchange. On city and county roads, stay out of the travel lanes.
+
+> **Ala. Code § 13A-11-9(a)(8)**
+> (a) A person commits the crime of loitering if he or she does any of the following:
+> [...]
+> (8) Loiters or remains on a public roadway maintained by the state, the right-of-way of a public roadway maintained by the state, or any area within 30 feet of any interchange involving a controlled-access or limited-access highway.
+
+> **Ala. Code § 32-5A-216(a)**
+> (a) No person shall stand in a roadway for the purpose of soliciting a ride.
+
+> **Ala. Code § 32-1-1.1(59)**
+> (59) ROADWAY. That portion of a highway improved, designed, or ordinarily used for vehicular travel, exclusive of the berm or shoulder.
+
 ## Sources
 
 - [Ala. Code § 32-5A-216](https://alison.legislature.state.al.us/code-of-alabama?section=32-5A-216)

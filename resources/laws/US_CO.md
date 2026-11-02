@@ -101,6 +101,17 @@ The 2024 text of § 42-4-805(1) ended: "except that any person lawfully soliciti
 - I did not find a list of "places specifically designated by the department of transportation" for soliciting rides on interstates under § 42-4-805(6), or of any CDOT orders closing controlled-access highways to pedestrians under § 42-4-1010(3).
 - City ordinances (e.g. Denver, Boulder) were not researched.
 
+## Pocket card
+
+**What's allowed:** You may solicit a ride from the shoulder, but not in the lanes of moving traffic. On interstates, solicit only at an entrance or exit (or CDOT-designated places), where cars can pull off safely.
+
+> **C.R.S. § 42-4-805(1)(a), (2), (6), (7)**
+> (a) An individual lawfully soliciting a ride may stand on either side of a two-way roadway where there is a view of traffic approaching from both directions; [...]
+> (2) No person shall stand in a roadway for the purpose of soliciting a ride from the driver of any private vehicle. For the purposes of this subsection (2), "roadway" means that portion of the road normally used by moving motor vehicle traffic.
+> [...]
+> (6) No person shall solicit a ride on any highway included in the interstate system, as defined in section 43-2-101 (2), C.R.S., except at an entrance to or exit from such highway or at places specifically designated by the department of transportation; [...]
+> (7) Pedestrians shall only be picked up where there is adequate road space for vehicles to pull off and not endanger and impede the flow of traffic.
+
 ## Sources
 
 - [2026 C.R.S. Title 42, Vehicles and Traffic (official OLLS HTML)](https://olls.info/crs/crs2026-title-42.htm)

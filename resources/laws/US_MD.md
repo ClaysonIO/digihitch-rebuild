@@ -108,6 +108,21 @@ What applies to hitchhikers:
 - I did not retrieve the District Court's preset fine schedule for § 21-507 or § 21-509, so the actual ticket amount is not stated here.
 - I did not retrieve the § 21-507 enactment history and so cannot confirm when subsection (a) was last amended.
 
+## Pocket card
+
+**What's allowed:** You may solicit a ride from the shoulder or sidewalk, off the roadway. Don't stand in travel lanes, and don't walk on or along interstates or other controlled access highways, their ramps or access roads.
+
+> **Md. Code, Transp. § 21-507(a)**
+> (a) Except for the occupant of a disabled vehicle who seeks the aid of another vehicle, a person may not stand in a roadway to solicit a ride, employment, or business from the occupant of any vehicle.
+
+> **Md. Code, Transp. § 11-151(a)**
+> (a) "Roadway" means that part of a highway that is improved, designed, or ordinarily used for vehicular travel, other than the shoulder.
+
+> **Md. Code, Transp. § 21-509(b), (d), (f)**
+> (b) Except as provided in subsection (j) of this section, a pedestrian may not walk on a controlled access highway.
+> (d) Except as provided in subsection (j) of this section, a pedestrian may not walk on a ramp leading to or from a controlled access highway.
+> (f) Except as provided in subsection (j) of this section, a pedestrian may not walk on an access road leading to or from a controlled access highway.
+
 ## Sources
 
 - [Md. Code, Transp. § 21-507 (Maryland General Assembly)](https://mgaleg.maryland.gov/mgawebsite/Laws/StatuteText?article=gtr&section=21-507&enactments=false)

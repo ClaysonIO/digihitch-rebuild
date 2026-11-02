@@ -73,6 +73,18 @@ Act 779, "An Act to Prohibit Pedestrians on a Controlled Access Highway," added 
 - Arkansas's loitering statute (Ark. Code § 5-71-213) was not checked for roadside provisions.
 - Local ordinances (Little Rock, Fayetteville) were not checked.
 
+## Pocket card
+
+**What's allowed:** Don't stand in the roadway to ask a private driver for a ride. Whether the shoulder counts as roadway is unconfirmed, so stand beyond it. Never enter freeway property, ramps included.
+
+> **Ark. Code Ann. § 27-51-1205**
+> No person shall stand in a roadway for the purpose of soliciting a ride from the driver of any private vehicle.
+
+> **Ark. Code Ann. § 27-51-1206(b)**
+> (b) A pedestrian shall not be within the property boundaries of a controlled-access highway unless he or she is:
+> (1) Directed by a police officer; or
+> (2) Construction personnel in a highway work zone.
+
 ## Sources
 
 - [Ark. Code § 27-51-1205 (FindLaw)](https://codes.findlaw.com/ar/title-27-transportation/ar-code-sect-27-51-1205.html)

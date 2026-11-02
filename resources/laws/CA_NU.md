@@ -93,6 +93,19 @@ The listing for the Traffic Safety Act consolidation states "Formerly: Motor Veh
 - **Consolidation lag.** The official consolidation is only current to 2019-12-06. I read the later amending Acts listed for 2021, 2025 and 2026 and found no changes to the pedestrian sections. I did not read the S.Nu. 2020, c. 15 (Legislation Act) consequential amendments in detail.
 - **Municipal by-laws.** I did not check Iqaluit's or other hamlets' traffic by-laws.
 
+## Pocket card
+
+**What's allowed:** Hitchhiking is legal. No Nunavut law bans soliciting a ride; s. 257 covers only employment or business. Stand on the shoulder, off the roadway, and walk on the left where there's no sidewalk.
+
+> **Traffic Safety Act (Nunavut), s. 257**
+> 257. No pedestrian shall be on a roadway for the purpose of soliciting employment or business with an occupant of a vehicle using the roadway.
+
+> **Traffic Safety Act (Nunavut), s. 1 "roadway"**
+> "roadway" means the part of a highway that is improved, designed or ordinarily used for the passage of vehicles, but does not include the shoulder of a highway;
+
+> **Traffic Safety Act (Nunavut), s. 255(2)**
+> (2) Where there is no sidewalk that is usable on either side of a roadway, a pedestrian shall, unless it is impracticable, walk or run on the left-hand side of the roadway or the shoulder of the highway.
+
 ## Sources
 
 - [Consolidation of Traffic Safety Act (Nunavut), current to 2019-12-06](https://nunavutlegislation.ca/en/file-download/download/public/8180)

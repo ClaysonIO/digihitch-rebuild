@@ -96,6 +96,20 @@ AB 2147 did not touch the hitchhiking section (§ 21957, unchanged since 1959). 
 - Which specific freeway segments Caltrans has closed to pedestrians under § 21960 is set by Caltrans orders and signs. It is not in the statute, and I did not retrieve a statewide list.
 - Local ordinances (e.g. city rules on soliciting from vehicles) were not researched.
 
+## Pocket card
+
+**What's allowed:** State law does not ban hitchhiking from the shoulder, curb or sidewalk. Don't stand in the roadway (travel lanes) to solicit a ride, and stay off freeways and expressways where signs prohibit pedestrians.
+
+> **Cal. Veh. Code § 21957**
+> No person shall stand in a roadway for the purpose of soliciting a ride from the driver of any vehicle.
+
+> **Cal. Veh. Code § 530**
+> A "roadway" is that portion of a highway improved, designed, or ordinarily used for vehicular travel.
+
+> **Cal. Veh. Code § 21960(a), (b)**
+> (a) The Department of Transportation and local authorities [...] may prohibit or restrict the use of the freeways, expressways, or any portion thereof by pedestrians, bicycles or other nonmotorized traffic [...]
+> (b) The prohibitory regulation authorized by subdivision (a) shall be effective when appropriate signs giving notice thereof are erected upon any freeway or expressway and the approaches thereto. [...]
+
 ## Sources
 
 - [Cal. Veh. Code § 21957](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=21957)

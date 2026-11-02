@@ -105,6 +105,20 @@ The enacted text of chapter 49 shows these words struck through in both subsecti
 - **Pedestrians walking along freeways:** No statute or RIDOT regulation banning this was found. Posted signs may apply.
 - **Local ordinances** were not researched.
 
+## Pocket card
+
+**What's allowed:** On ordinary roads you may solicit a ride from the shoulder, berm or sidewalk, but not from the roadway. Hitchhiking is banned anywhere on a freeway, shoulders included; treat ramps as part of the freeway.
+
+> **R.I. Gen. Laws § 24-10-17(a), (b)**
+> (a) Any person who endeavors by words, gestures, or otherwise to beg, invite, or secure transportation in any motor vehicle on any freeway within the state, except in the case of a bona fide emergency or in the case of sickness, is subject to fines enumerated in § 31-41.1-4.
+> (b) Any person who endeavors to solicit a ride in a motor vehicle in the manner described in this section on the traveled portion of any other public highway in this state shall be subject to fines enumerated in § 31-41.1-4.
+
+> **R.I. Gen. Laws § 31-18-12**
+> No person shall stand in a roadway for the purpose of soliciting a ride from the driver of any vehicle.
+
+> **R.I. Gen. Laws § 31-1-23(h)**
+> (h) "Roadway" means that portion of a highway improved, designed, or ordinarily used for vehicular travel, excluding the sidewalk, berm, or shoulder even when used by persons riding bicycles.
+
 ## Sources
 
 - [R.I. Gen. Laws § 24-10-17](https://webserver.rilegislature.gov/Statutes/TITLE24/24-10/24-10-17.htm)

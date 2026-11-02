@@ -96,6 +96,19 @@ Penalty: a first violation of the traffic chapter carries a fine of up to $175, 
 - No Louisiana DOTD rule extending the pedestrian ban to non-interstate controlled-access highways was checked.
 - Local ordinances (New Orleans, Baton Rouge, Shreveport) on roadside solicitation were not checked.
 
+## Pocket card
+
+**What's allowed:** You may stand on the shoulder or curb to ask for a ride; Louisiana's "roadway" excludes the shoulder. Don't stand in travel lanes, and don't walk on or cross interstates.
+
+> **La. R.S. 32:218(A)**
+> A. Subject to Subsection B of this Section, no person shall stand on a public roadway for the purpose of soliciting a ride, employment, or business from the occupant of any vehicle.
+
+> **La. R.S. 32:1(75)**
+> (75) "Roadway" means that portion of a highway improved, designed, or ordinarily used for vehicular traffic, exclusive of the berm or shoulder.
+
+> **La. R.S. 32:263(C)**
+> C. The use of any Louisiana interstate highway by pedestrians, bicycles, or other non-motorized vehicles is prohibited.
+
 ## Sources
 
 - [La. R.S. 32:218](https://www.legis.la.gov/Legis/Law.aspx?d=88193)

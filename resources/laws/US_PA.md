@@ -126,6 +126,22 @@ From § 601.1 (Definitions):
 - The official § 3545 page shows no amendment history beyond the original 1976 enactment, and I found no 2023 to 2026 amendment, but I did not search every recent session's bills.
 - I did not check local ordinances (e.g. Philadelphia or Pittsburgh) on panhandling or soliciting from vehicles.
 
+## Pocket card
+
+**What's allowed:** You may solicit a ride from the shoulder, berm or sidewalk, off the roadway. Don't stand in travel lanes, pass "no pedestrians" signs at freeway ramps, or hitchhike or walk anywhere on the Pennsylvania Turnpike.
+
+> **75 Pa.C.S. § 3545(1)**
+> No person shall:
+> (1) Stand on a roadway for the purpose of soliciting a ride.
+
+> **75 Pa.C.S. § 102 ("Roadway")**
+> "Roadway." That portion of a highway improved, designed or ordinarily used for vehicular travel, exclusive of the sidewalk, berm or shoulder even though such sidewalk, berm or shoulder is used by pedalcycles.
+
+> **67 Pa. Code §§ 601.10, 601.11 (Turnpike)**
+> Pedestrian travel or entry upon the right-of-way of the Turnpike System is prohibited.
+> [...]
+> The solicitation for a ride, commonly known as "hitchhiking," is prohibited, and stopping or allowing a vehicle to be standing while hitchhikers board is also prohibited.
+
 ## Sources
 
 - [75 Pa.C.S. § 3545 (Pennsylvania General Assembly)](https://www.palegis.us/statutes/consolidated/view-statute?txtType=HTM&ttl=75&div=0&chapter=35&section=45&subsctn=0)

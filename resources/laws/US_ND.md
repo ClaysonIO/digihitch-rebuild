@@ -88,6 +88,20 @@ What applies to hitchhikers:
 - I did not confirm the demerit points, if any, assigned to a § 39-10-34 violation.
 - City ordinances (Fargo, Bismarck, Grand Forks, Minot) were not reviewed.
 
+## Pocket card
+
+**What's allowed:** You may hitchhike from the shoulder or curb, off the roadway (travel lanes). No statute bans pedestrians on interstates, but obey any posted sign restricting them.
+
+> **N.D. Cent. Code § 39-10-34(1)**
+> 1. No person may stand in a roadway for the purpose of soliciting a ride.
+
+> **N.D. Cent. Code § 39-01-01(76)**
+> 76. "Roadway" means that portion of a highway improved, designed, or ordinarily used for vehicular travel, exclusive of the berm or shoulder. [...]
+
+> **N.D. Cent. Code § 39-10-21**
+> The director may by order, and local authorities may by ordinance, with respect to any controlled-access roadway under their respective jurisdictions, prohibit the use of any such roadway by any class or kind of traffic which is found incompatible with the normal and safe movement of traffic.
+> The director or the local authority adopting any such prohibition shall erect and maintain official traffic-control devices on the controlled-access roadway on which such prohibitions are applicable and when in place no person may disobey the restrictions stated on such devices.
+
 ## Sources
 
 - [N.D.C.C. ch. 39-10, General Rules of the Road (PDF)](https://www.ndlegis.gov/cencode/t39c10.pdf)

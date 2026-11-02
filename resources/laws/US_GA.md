@@ -96,6 +96,20 @@ Violations of Chapter 6 of Title 40 are misdemeanors unless the chapter says oth
 - The exact maximum misdemeanor fine (O.C.G.A. § 17-10-3) was not retrieved.
 - Local ordinances (for example, Atlanta) were not checked.
 
+## Pocket card
+
+**What's allowed:** Stand on the shoulder or sidewalk, not in the travel lanes; Georgia bans soliciting rides only in the roadway, which excludes the shoulder. Use the sidewalk where there is one. Avoid interstate ramps signed against pedestrians.
+
+> **O.C.G.A. § 40-6-97(a)**
+> (a) No person shall stand in a roadway for the purpose of soliciting a ride.
+
+> **O.C.G.A. § 40-1-1(53)**
+> (53) "Roadway" means that portion of a highway improved, designed, or ordinarily used for vehicular travel, exclusive of the berm or shoulder.
+
+> **O.C.G.A. § 40-6-96(b), (c)**
+> (b) Where a sidewalk is provided, it shall be unlawful for any pedestrian to stand or stride along and upon an adjacent roadway unless there is no motor vehicle traveling within 1,000 feet of such pedestrian on such roadway [...]
+> (c) Where a sidewalk is not provided but a shoulder is available, any pedestrian standing or striding along and upon a highway shall stand or stride only on the shoulder, as far as practicable from the edge of the roadway.
+
 ## Sources
 
 - [O.C.G.A. § 40-6-97 (FindLaw)](https://codes.findlaw.com/ga/title-40-motor-vehicles-and-traffic/ga-code-sect-40-6-97.html)

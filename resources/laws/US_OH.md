@@ -123,6 +123,19 @@ A first violation of § 4511.51(A) or § 4511.051 is a minor misdemeanor (fine o
 
 **What it means:** The maximum fine for a minor misdemeanor is $150, and $250 for a fourth-degree misdemeanor, plus court costs.
 
+## Pocket card
+
+**What's allowed:** You may ask for a ride from the shoulder, berm or sidewalk; Ohio's "roadway" excludes them. Don't solicit from travel or parking lanes. No pedestrians on freeways, and no hitchhiking anywhere on the Ohio Turnpike.
+
+> **Ohio Rev. Code § 4511.51(A)**
+> (A) No person while on a roadway outside a safety zone shall solicit a ride from the driver of any vehicle.
+
+> **Ohio Rev. Code § 4511.01(EE)**
+> (EE) "Roadway" means that portion of a highway improved, designed, or ordinarily used for vehicular travel and parking lanes, not including the berm, sidewalk, or shoulder, [...]
+
+> **Ohio Admin. Code 5537-3-02**
+> The solicitation of a ride, commonly known as "hitchhiking," or stopping for the purpose of picking up or discharging a hitchhiker, is hereby prohibited on the turnpike.
+
 ## Sources
 
 - [R.C. 4511.51](https://codes.ohio.gov/ohio-revised-code/section-4511.51)

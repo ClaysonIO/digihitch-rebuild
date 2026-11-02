@@ -78,6 +78,17 @@ What applies to hitchhikers:
 - **Interstates:** No Missouri statute or Code of State Regulations rule (Title 7, MoDOT) that bans pedestrians from interstates or freeways was found. RSMo § 304.011.2 sets a 40 mph minimum speed on interstates, but it applies to vehicles, not pedestrians. Whether MoDOT posts "no pedestrians" signs under some other authority, and what enforces them, is unverified.
 - **Local ordinances** (St. Louis, Kansas City, Springfield, Columbia) were not checked. Many cities copy the Uniform Vehicle Code ban on standing in the roadway to solicit a ride.
 
+## Pocket card
+
+**What's allowed:** Hitchhiking is legal. No Missouri statute was found that bans soliciting a ride. Stand on the shoulder, off the travel lanes, and check local ordinances. No statute banning pedestrians from interstates was found, but avoid them.
+
+> **Mo. Rev. Stat. § 300.405**
+> 1. Where sidewalks are provided it shall be unlawful for any pedestrian to walk along and upon an adjacent roadway.
+> 2. Where sidewalks are not provided any pedestrian walking along and upon a highway shall when practicable walk only on the left side of the roadway or its shoulder facing traffic which may approach from the opposite direction.
+
+> **Mo. Rev. Stat. § 304.001(12)**
+> (12) "Roadway", that portion of a state highway ordinarily used for vehicular travel, exclusive of the berm or shoulder;
+
 ## Sources
 
 - [RSMo § 300.405](https://revisor.mo.gov/main/OneSection.aspx?section=300.405)

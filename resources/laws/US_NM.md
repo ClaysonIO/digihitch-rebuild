@@ -100,6 +100,16 @@ The bill would have made it unlawful for a pedestrian to "occupy a travel lane o
 - News reports describe median-safety ordinances in Albuquerque and Santa Fe (Santa Fe council approval was reported in July 2024). Their primary text was not retrieved.
 - I did not find NMDOT/Transportation Commission orders listing freeways closed to pedestrians.
 
+## Pocket card
+
+**What's allowed:** New Mexico bans standing only in the roadway to solicit a ride, so you may hitchhike from the shoulder, curb or sidewalk. Obey any sign banning pedestrians from a freeway.
+
+> **N.M. Stat. Ann. § 66-7-340(A)**
+> A. No person shall stand in a roadway for the purpose of soliciting a ride, employment or business from the occupant of any vehicle.
+
+> **N.M. Stat. Ann. § 66-1-4.15(Q)**
+> Q. "roadway" means that portion of a street or highway improved, designed or ordinarily used for vehicular travel, exclusive of the berm or shoulder; [...]
+
 ## Sources
 
 - [N.M. Stat. § 66-7-340 (FindLaw mirror)](https://codes.findlaw.com/nm/chapter-66-motor-vehicles/nm-st-sect-66-7-340/)

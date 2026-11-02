@@ -104,6 +104,19 @@ The Legislative Service Office summary describes the bill this way: "This act re
 - Local ordinances (e.g. Cheyenne, Casper, Laramie, Jackson) were not researched. Some Wyoming towns may have their own pedestrian or solicitation rules.
 - National parks in Wyoming (Yellowstone, Grand Teton) are under federal regulations, which were not researched here.
 
+## Pocket card
+
+**What's allowed:** Hitchhiking is legal: no Wyoming statute bans soliciting a ride (the ban was repealed in 2013). Stay out of traffic, don't ask drivers for money or work, and obey any sign banning pedestrians from an interstate.
+
+> **Wyo. Stat. § 31-5-606(a)**
+> (a) No person shall be on a highway for the purpose of soliciting employment, business or contributions from the occupant of any vehicle.
+
+> **Wyo. Stat. § 31-5-605(b)**
+> (b) Where sidewalks are not provided any pedestrian walking along and upon a highway shall, when practicable, walk only on the left side of the roadway or its shoulder facing traffic which may approach from the opposite direction as far as practicable from the edge of the roadway.
+
+> **Wyo. Stat. § 31-5-213(b)**
+> (b) The department or the local authority adopting any prohibitory regulation under subsection (a) of this section shall erect and maintain official traffic-control devices on the controlled-access highway on which the regulations are applicable and when so erected no person shall disobey the restrictions stated on the devices.
+
 ## Sources
 
 - [Wyoming Statutes Title 31 (official PDF)](https://wyoleg.gov/statutes/compress/title31.pdf)

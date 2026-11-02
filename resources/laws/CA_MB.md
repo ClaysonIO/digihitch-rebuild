@@ -105,6 +105,18 @@ The current consolidation shows "144 [Repealed] S.M. 2018, c. 10, Sch. B, s. 50"
 - Regulations under The Highway Traffic Act and The Transportation Infrastructure Act were not searched individually for pedestrian bans on particular provincial highways.
 - Winnipeg traffic by-laws were not checked.
 
+## Pocket card
+
+**What's allowed:** Hitchhiking is legal. No Manitoba law bans soliciting a ride. Use a passable sidewalk if there is one; otherwise keep to the left edge of the roadway or shoulder. Obey any posted no-pedestrians sign.
+
+> **The Highway Traffic Act (Man.), s. 143(1), (2)**
+> 143(1) Where there is a sidewalk that is reasonably passable on either or both sides of a highway, a pedestrian shall not walk on a roadway.
+> 143(2) Any pedestrian proceeding along a highway where no sidewalk is provided or where the sidewalk is not passable, shall walk as closely as is practicable to
+> (a) the left-hand edge of the roadway or of the shoulder, as the case may be; [...]
+
+> **The Highway Traffic Act (Man.), s. 1(1) "roadway"**
+> "roadway" means the portion of a highway that is improved, designed, or ordinarily used for vehicular traffic, [...] but does not include the shoulder;
+
 ## Sources
 
 - [The Highway Traffic Act, C.C.S.M. c. H60 (Manitoba Laws, current as of October 28, 2026)](https://web2.gov.mb.ca/laws/statutes/ccsm/h060.php)

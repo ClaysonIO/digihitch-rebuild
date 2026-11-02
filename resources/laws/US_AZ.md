@@ -104,6 +104,16 @@ H.B. 2684 would have added a new § 28-798: "A pedestrian may not congregate or 
 - I did not obtain ADOT's list of controlled-access segments where pedestrians are prohibited under § 28-733. Signs on the ground are the operative notice.
 - City ordinances (Phoenix, Tucson, Mesa and others) on roadway and median solicitation were not reviewed.
 
+## Pocket card
+
+**What's allowed:** Arizona bans standing only in the roadway to solicit a ride, so you may hitchhike from the shoulder, curb or sidewalk. Don't block traffic, and obey any sign banning pedestrians from a freeway.
+
+> **A.R.S. § 28-796(C)**
+> C. A person shall not stand in a roadway for the purpose of soliciting a ride from the driver of a vehicle.
+
+> **A.R.S. § 28-601(22)**
+> 22. "Roadway" means that portion of a highway that is improved, designed or ordinarily used for vehicular travel, exclusive of the berm or shoulder. [...]
+
 ## Sources
 
 - [A.R.S. § 28-796 Pedestrian on roadways](https://www.azleg.gov/ars/28/00796.htm)

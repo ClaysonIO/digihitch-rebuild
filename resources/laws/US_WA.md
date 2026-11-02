@@ -102,6 +102,17 @@ WAC 468-58-050:
 - The exact fine under IRLJ 6.2 was not retrieved.
 - Local hitchhiking bans adopted under the prostitution exception in RCW 46.61.255(6)(b) were not researched.
 
+## Pocket card
+
+**What's allowed:** Hitchhiking is legal on ordinary roads where a car can safely stop off the main traveled lanes to pick you up. It is illegal anywhere inside a freeway (limited access) right-of-way, including ramps, unless permission is posted.
+
+> **RCW 46.61.255(1), (2)**
+> (1) No person shall stand in or on a public roadway or alongside thereof at any place where a motor vehicle cannot safely stop off the main traveled portion thereof for the purpose of soliciting a ride for himself or herself or for another from the occupant of any vehicle.
+> (2) It shall be unlawful for any person to solicit a ride for himself or herself or another from within the right-of-way of any limited access facility except in such areas where permission to do so is given and posted by the highway authority of the state, county, city, or town having jurisdiction over the highway.
+
+> **RCW 46.61.255(6)(a)**
+> (6)(a) Except as provided in (b) of this subsection, the state preempts the field of the regulation of hitchhiking in any form, and no county, city, or town shall take any action in conflict with the provisions of this section.
+
 ## Sources
 
 - [RCW 46.61.255](https://app.leg.wa.gov/RCW/default.aspx?cite=46.61.255)

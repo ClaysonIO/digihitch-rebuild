@@ -106,6 +106,22 @@ What applies to hitchhikers:
 - I did not research whether NDOT issues permits under § 60-6,144 or designates pedestrian areas on any freeway.
 - City ordinances (Omaha, Lincoln) on roadway solicitation were not reviewed.
 
+## Pocket card
+
+**What's allowed:** On ordinary roads you may hitchhike from the shoulder or curb, off the roadway. Hitchhikers are banned from freeways, including their on- and off-ramps, so stand on the surface road before the ramp.
+
+> **Neb. Rev. Stat. § 60-6,157(1)**
+> (1) Except as otherwise provided in subsection (3) of this section, no person shall stand in a roadway for the purpose of soliciting a ride, employment, contributions, or business from the occupant of any vehicle.
+
+> **Neb. Rev. Stat. § 60-6,144(1), (2)**
+> Use of a freeway and entry thereon by the following shall be prohibited at all times except by permit from the Department of Transportation [...]
+> (1) Pedestrians except in areas specifically designated for that purpose;
+> (2) Hitchhikers or walkers;
+
+> **Neb. Rev. Stat. §§ 60-621, 60-656**
+> 60-621. Freeway shall mean a divided arterial highway designed primarily for through traffic with full control of access and with grade separations at all intersecting road crossings, including all interchanges and approach and exit roads thereto.
+> 60-656. Roadway shall mean that portion of a highway improved, designed, or ordinarily used for vehicular travel, exclusive of the berm or shoulder. [...]
+
 ## Sources
 
 - [Neb. Rev. Stat. § 60-6,157](https://nebraskalegislature.gov/laws/statutes.php?statute=60-6,157)

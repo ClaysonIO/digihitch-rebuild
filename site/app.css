@@ -224,23 +224,61 @@ svg.map .leader { stroke: var(--muted); stroke-width: .6; opacity: .7; }
 .prose table { border-collapse: collapse; display: block; overflow-x: auto; }
 .prose th, .prose td { border: 1px solid var(--border); padding: 4px 8px; }
 
-/* Handouts */
+/* Pocket law cards (index) */
 .handout-list { display: grid; gap: 10px; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); }
 .handout-list a { display: block; background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius); padding: 14px; text-decoration: none; color: inherit; box-shadow: var(--shadow); }
 .handout-list a:hover { border-color: var(--accent); }
 .handout-list .hl-name { font-weight: 700; }
 .handout-list .hl-sub { color: var(--muted); font-size: .88rem; }
+.custom-pick { background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius); padding: 12px 14px; }
+.custom-pick fieldset { border: 0; padding: 0; margin: 0 0 12px; display: grid; grid-template-columns: repeat(auto-fill, minmax(170px, 1fr)); gap: 2px 12px; }
+.custom-pick legend { font-weight: 700; margin-bottom: 6px; }
+.custom-pick label { font-size: .92rem; display: flex; gap: 6px; align-items: center; }
 
-.handout-toolbar { display: flex; gap: 12px; align-items: center; flex-wrap: wrap; background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius); padding: 10px 14px; margin: 12px 0 20px; }
-.handout-toolbar label { display: inline-flex; gap: 6px; align-items: center; font-size: .92rem; }
-.handout h1 { margin: 0 0 4px; font-size: 1.7rem; }
-.handout .sub { color: var(--muted); margin: 0 0 16px; font-size: .92rem; }
-.handout-entry { border-top: 2px solid var(--text); padding-top: 10px; margin-top: 18px; }
-.handout-entry h2 { display: flex; align-items: center; gap: 10px; flex-wrap: wrap; font-size: 1.25rem; margin: 0 0 4px; border: 0; }
-.handout-entry .statusline { font-size: .92rem; margin: 2px 0 8px; }
-.handout-entry .prose h3 { font-size: 1rem; margin: 12px 0 4px; }
-.handout.no-explain .explain { display: none; }
-.handout .srcs { font-size: .8rem; color: var(--muted); overflow-wrap: anywhere; }
+/* Pocket law card sheet: 10.5in x 8in printable area on landscape US Letter, 3 x 4 panels of 3.5in x 2in */
+.handout-toolbar { display: flex; gap: 16px; align-items: flex-start; flex-wrap: wrap; background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius); padding: 12px 14px; margin: 12px 0 20px; }
+.howto { margin: 0; padding-left: 1.2em; font-size: .92rem; flex: 1 1 320px; }
+.howto li + li { margin-top: 3px; }
+.pc-side { margin: 0 0 22px; }
+.pc-side-label { font-size: .85rem; color: var(--muted); margin-bottom: 6px; font-weight: 600; }
+.pc-scaler { width: 100%; overflow: hidden; }
+.pc-sheet {
+  width: 10.5in; height: 8in; transform-origin: 0 0;
+  display: grid; grid-template-columns: repeat(3, 3.5in); grid-template-rows: repeat(4, 2in);
+  background: #fff; color: #111; box-shadow: 0 1px 6px rgba(0,0,0,.18);
+}
+.pc-measure { position: absolute; left: -10000px; top: 0; visibility: hidden; }
+.pc-measure .pc-panel { border-right: .6pt dashed transparent; border-bottom: .6pt dashed transparent; }
+.pc-panel {
+  width: 3.5in; height: 2in; box-sizing: border-box; padding: .085in .11in .07in; overflow: hidden;
+  display: flex; flex-direction: column; background: #fff; color: #111;
+  font-family: system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif;
+}
+.pc-sheet .pc-panel { border-right: .6pt dashed #a9a9a9; border-bottom: .6pt dashed #a9a9a9; }
+.pc-sheet .pc-panel:nth-child(3n) { border-right: 0; }
+.pc-sheet .pc-panel:nth-child(n+10) { border-bottom: 0; }
+.pc-head { display: flex; align-items: center; gap: 4pt; border-bottom: .7pt solid #111; padding-bottom: 1.5pt; margin-bottom: 2.5pt; flex: none; }
+.pc-name { font-weight: 800; font-size: 8pt; text-transform: uppercase; letter-spacing: .03em; }
+.pc-status { font-size: 5.8pt; font-weight: 800; text-transform: uppercase; letter-spacing: .04em; border: .7pt solid #111; border-radius: 2pt; padding: .2pt 2pt; }
+.pc-tag { margin-left: auto; font-size: 6pt; color: #555; }
+.pc-body { flex: 1; overflow: hidden; font-size: 6.7pt; line-height: 1.22; }
+.pc-body p { margin: 0 0 2pt; }
+.pc-allowed { margin-bottom: 3pt !important; }
+.pc-cite { font-weight: 800; margin-top: 3pt !important; margin-bottom: 1pt !important; }
+.pc-law { font-family: Georgia, "Times New Roman", serif; font-size: 6.8pt; line-height: 1.2; padding-left: 4pt; border-left: .7pt solid #777; margin-bottom: 1pt !important; }
+.pc-cover { justify-content: space-between; }
+.pc-cover-top { display: flex; justify-content: space-between; align-items: baseline; }
+.pc-logo { font-size: 11pt; font-weight: 700; letter-spacing: -.01em; }
+.pc-logo b { background: #111; color: #fff; padding: 0 2pt; border-radius: 2pt; }
+.pc-kicker { font-size: 6pt; text-transform: uppercase; letter-spacing: .08em; color: #555; }
+.pc-cover-title { font-size: 10pt; font-weight: 800; line-height: 1.1; }
+.pc-cover-title span { font-size: 13pt; }
+.pc-index { list-style: none; margin: 0; padding: 0; columns: 2; column-gap: 8pt; font-size: 6.3pt; line-height: 1.3; }
+.pc-index b { display: inline-block; min-width: 13pt; }
+.pc-cover-foot { font-size: 5.8pt; color: #444; border-top: .6pt solid #111; padding-top: 1.5pt; }
+.pc-officer .pc-body { font-size: 6.9pt; line-height: 1.28; }
+.pc-small { font-size: 5.9pt; color: #444; margin-top: 3pt !important; }
+.pc-notes .pc-body { background: repeating-linear-gradient(to bottom, transparent 0 13pt, #d4d4d4 13pt 13.6pt); }
 
 /* About */
 .about { max-width: 75ch; }
@@ -258,8 +296,8 @@ svg.map .leader { stroke: var(--muted); stroke-width: .6; opacity: .7; }
 /* Print: handouts and law pages print cleanly in black and white */
 @media print {
   :root { --bg: #fff; --surface: #fff; --quote-bg: #fff; --text: #000; --muted: #333; --border: #999; }
-  body { font-size: 10.5pt; line-height: 1.4; }
-  .site-header, .site-footer, .crumbs, .actions, .handout-toolbar, .controls, .skip, .no-print { display: none !important; }
+  body { font-size: 10.5pt; line-height: 1.4; background: #fff; }
+  .site-header, .site-footer, .crumbs, .actions, .handout-toolbar, .controls, .skip, .no-print, .pc-side-label { display: none !important; }
   main { padding: 0; }
   .wrap { max-width: none; padding: 0; }
   a { color: #000; text-decoration: none; }
@@ -267,8 +305,11 @@ svg.map .leader { stroke: var(--muted); stroke-width: .6; opacity: .7; }
   .prose blockquote { border-left: 3px solid #000; page-break-inside: avoid; break-inside: avoid; }
   .pill { border: 1px solid #000; background: none !important; color: #000 !important; }
   .status-line { box-shadow: none; }
-  .handout-entry { break-inside: auto; }
-  .handout-entry h2, .prose h3 { break-after: avoid; page-break-after: avoid; }
-  .handout .print-url::after { content: " — " attr(href); font-size: 8.5pt; }
-  .handout.one-per-page .handout-entry + .handout-entry { break-before: page; page-break-before: always; }
+  .prose h3 { break-after: avoid; page-break-after: avoid; }
+  /* Pocket sheets: one side per page, true size */
+  .pc-side { margin: 0; break-after: page; page-break-after: always; }
+  .pc-side:last-child { break-after: auto; page-break-after: auto; }
+  .pc-scaler { height: auto !important; overflow: visible; }
+  .pc-sheet { transform: none !important; box-shadow: none; }
+  * { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
 }

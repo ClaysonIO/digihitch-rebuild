@@ -94,6 +94,16 @@ Breaking a traffic regulation is an infraction with a fine of up to $300, unless
 - **Anchorage.** Anchorage Municipal Code 9.20.060 reportedly deals with soliciting from vehicle occupants on a roadway. I did not retrieve its current text, so check it before relying on it.
 - **Statutes.** I did not search all of Alaska Statutes Title 28 for any separate hitchhiking statute. The hitchhiking rule found is the regulation above.
 
+## Pocket card
+
+**What's allowed:** Hitchhiking is not banned outright. Solicit rides from a safe spot off the travel lanes without distracting drivers or loitering, and don't walk on controlled-access highways except in an emergency.
+
+> **13 AAC 02.180**
+> No person may solicit a ride in a manner which distracts a driver's attention, nor may a pedestrian upon a highway solicit employment, business, or contributions from the occupant of a vehicle.
+
+> **13 AAC 02.175(b)**
+> (b) Where a sidewalk is not available, a pedestrian walking upon a highway shall walk on a shoulder as far as practicable from the edge of the roadway. [...] No pedestrian may walk on a controlled-access highway except in an emergency.
+
 ## Sources
 
 - [13 AAC 02.180, Pedestrians soliciting rides or business](https://www.akleg.gov/basis/aac.asp#13.02.180)

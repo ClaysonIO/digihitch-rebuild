@@ -105,6 +105,20 @@ What applies to hitchhikers:
 - The DCMR definition of "roadway" does not mention shoulders. I found no D.C. ruling on whether a paved shoulder counts as part of the roadway.
 - I did not determine which specific parkways in D.C. are under National Park Service jurisdiction, or whether any NPS superintendent has designated hitchhiking areas.
 
+## Pocket card
+
+**What's allowed:** Ask for rides from the sidewalk or curb, not the roadway ($10 fine). Stay off freeways where signs bar pedestrians. Hitchhiking is banned on National Park Service land except in designated areas.
+
+> **18 DCMR § 2305.4**
+> 2305.4 No person shall stand in a roadway for the purpose of soliciting a ride from the driver of any vehicle.
+
+> **18 DCMR § 9901 ("Roadway")**
+> Roadway - that portion of a highway which is improved, designed, or ordinarily used for vehicular travel.
+
+> **18 DCMR §§ 2201.13–2201.14**
+> 2201.13 The Director may regulate or prohibit the use of any controlled-access roadway or highway by any class or kind of traffic which is found to be incompatible with the normal and safe movement of traffic.
+> 2201.14 The Director shall erect and maintain official traffic control devices on the controlled access highway on which such prohibitions are applicable and, when in place, no person shall disobey restrictions on such devices.
+
 ## Sources
 
 - [18 DCMR § 2305 (DCRegs)](https://dcregs.dc.gov/Common/DCMR/SectionList.aspx?SectionNumber=18-2305)

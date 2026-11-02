@@ -137,6 +137,16 @@ The official history line for § 20-174.1 lists Session Law 2024-16, s. 4(a), wh
 - I did not check local ordinances (e.g. Charlotte, Raleigh, Asheville).
 - I did not retrieve S.L. 2024-16 itself, so I cannot say exactly which parts of § 20-174.1 it added or changed beyond the repeal of subsection (b).
 
+## Pocket card
+
+**What's allowed:** On State highways, stand only on the shoulder to solicit a ride. Hitchhiking is banned on interstates and controlled-access highways, shoulders included, so wait before the on-ramp.
+
+> **N.C. Gen. Stat. § 20-175(a)**
+> (a) No person shall stand in any portion of the State highways, except upon the shoulders thereof, for the purpose of soliciting a ride from the driver of any motor vehicle.
+
+> **19A NCAC 02E .0410(a)**
+> (a) It shall be unlawful for any person to hitchhike or to solicit rides, or for the driver of any vehicle to stop for the purpose of picking up one who is hitchhiking or soliciting a ride, on any interstate or controlled access highway.
+
 ## Sources
 
 - [G.S. § 20-175 (NC General Assembly)](https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_20/GS_20-175.html)

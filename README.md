@@ -5,7 +5,7 @@ A rebuild of **digihitch**, the hitchhiking portal that ran from 2001 to about 2
 This repository starts with that law reference:
 
 - **`resources/laws/`**: one Markdown file per jurisdiction (`<countryCode>_<stateCode>.md`, e.g. `US_UT.md`, `CA_ON.md`). Each file quotes the law verbatim, links to the official source, and explains in plain English what it means for a hitchhiker.
-- **`site/`**: a static, dependency-free web page for GitHub Pages. It has a clickable map of the US and Canada coloured by legal status, a page for each jurisdiction, and printable handouts by region.
+- **`site/`**: a static, dependency-free web page for GitHub Pages. It has a clickable map of the US and Canada coloured by legal status, a page for each jurisdiction, and pocket law cards. A pocket card is one double-sided sheet per region (or a custom route) that folds down to credit-card size, with the exact law text to show an officer.
 - **`resources/digihitch-original-site.md`**: what the original site contained and what was valuable.
 - **`resources/future-features.md`**: the roadmap for later features and research follow-ups.
 - **`resources/verification-report.md`**: results of the automated check that quoted law text matches its linked source.
@@ -28,6 +28,19 @@ key_citations:
 ```
 
 After the front matter come a `**Status:**` line and the sections `## Summary` and `## Laws`. Each law gets a `###` heading, a `**Source:**` link, a verbatim `>` quote, and a `**What it means:**` explanation. Optional sections are `## History`, `## Notable local rules`, and `## Unverified / open questions`. Every file ends with `## Sources`.
+
+Each file also has a `## Pocket card` section just before `## Sources`, which feeds the printable pocket cards:
+
+```markdown
+## Pocket card
+
+**What's allowed:** One or two plain sentences, 45 words at most.
+
+> **Utah Code § 41-6a-1009(2), (7)**
+> (2) Where a sidewalk is not provided, a pedestrian walking along or on a highway shall walk only on the shoulder, [...]
+```
+
+The build fails if any excerpt line isn't copied word for word from that file's own `## Laws` quotes (`[...]` marks an omission). It also fails if the excerpts add up to more than 200 words.
 
 What the status values mean:
 

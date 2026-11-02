@@ -99,6 +99,16 @@ What applies to hitchhikers:
 - Toll roads run by regional authorities (for example NTTA, HCTRA, CTRMA) may have their own rules. I did not research them.
 - City ordinances on soliciting from roadways and medians (Houston, Dallas, San Antonio, Austin and others) were not reviewed.
 
+## Pocket card
+
+**What's allowed:** Texas bans standing only in the roadway to solicit a ride, so you may hitchhike from the shoulder, curb or sidewalk. Obey any sign banning pedestrians from a freeway.
+
+> **Tex. Transp. Code § 552.007(a)**
+> (a) A person may not stand in a roadway to solicit a ride, contribution, employment, or business from an occupant of a vehicle, [...]
+
+> **Tex. Transp. Code § 541.302(11)**
+> (11) "Roadway" means the portion of a highway, other than the berm or shoulder, that is improved, designed, or ordinarily used for vehicular travel. [...]
+
 ## Sources
 
 - [Tex. Transp. Code ch. 552 (Pedestrians)](https://tcss.legis.texas.gov/resources/TN/htm/TN.552.htm)

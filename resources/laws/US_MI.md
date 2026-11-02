@@ -121,6 +121,19 @@ All of these are civil infractions, not crimes. The fine for a Vehicle Code civi
 - Which municipalities have adopted the Uniform Traffic Code, and whether any have changed Rule 713 locally, was not checked. Detroit, for example, has its own traffic ordinance.
 - Whether MCL 257.679a's ban covers on- and off-ramps isn't stated in the text. Ramps are normally part of the limited-access facility, so treat them as off-limits.
 
+## Pocket card
+
+**What's allowed:** Hitchhiking is legal. No statewide Michigan law bans soliciting rides. In towns using the Uniform Traffic Code, don't stand in the roadway; thumb from the shoulder, curb or sidewalk. Pedestrians are banned from freeways.
+
+> **Mich. Admin. Code R. 28.1713(1)**
+> (1) A person shall not stand in a roadway for the purpose of soliciting a ride, employment, or business from the occupant of any vehicle.
+
+> **Mich. Comp. Laws § 257.55**
+> "Roadway" means that portion of a highway improved, designed, or ordinarily used for vehicular travel.
+
+> **Mich. Comp. Laws § 257.679a(1)**
+> (1) A person shall not operate a motorcycle [...] nor shall a pedestrian, bicycle, except as provided in this section, or other nonmotorized traffic be permitted on a limited access highway in this state.
+
 ## Sources
 
 - [MCL 257.679a](https://legislature.mi.gov/documents/mcl/pdf/MCL-257-679A.pdf)

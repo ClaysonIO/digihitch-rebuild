@@ -97,6 +97,19 @@ Before 2003, § 61-8-332(1) said the department "may by rule and local authoriti
 - I did not retrieve any Administrative Rules of Montana (ARM) rule adopted under § 61-8-332 that closes specific interstates or controlled-access highways to pedestrians. Closures are shown by signs.
 - Local ordinances (e.g. Missoula, Billings, Bozeman) were not researched.
 
+## Pocket card
+
+**What's allowed:** Hitchhiking from the shoulder is not prohibited by state law. Montana bans standing on the roadway (travel lanes) to solicit a ride, and the roadway excludes the shoulder. Obey any signs banning pedestrians on interstates.
+
+> **Mont. Code Ann. § 61-8-507(1)**
+> (1) A person may not stand on a roadway for the purpose of soliciting a ride.
+
+> **Mont. Code Ann. § 61-1-101(66)**
+> (66) "Roadway" means that portion of a highway improved, designed, or ordinarily used for vehicular travel, exclusive of the berm or shoulder. [...]
+
+> **Mont. Code Ann. § 61-8-506(2)**
+> (2) Where sidewalks are not provided, a pedestrian, other than an intoxicated pedestrian referred to in 61-8-508, who is walking along and upon a highway may walk only on the shoulder, as far as practicable from the edge of the roadway.
+
 ## Sources
 
 - [MCA 61-8-507](https://leg.mt.gov/bills/mca/title_0610/chapter_0080/part_0050/section_0070/0610-0080-0050-0070.html)

@@ -98,6 +98,19 @@ A violation of the Vehicle and Traffic Law is a traffic infraction. Under § 180
 - **Thruway penalty:** The penalty for violating 21 NYCRR Part 102 was not confirmed. It may be a traffic infraction under VTL § 1800(a), as a "rule or regulation adopted pursuant to this chapter", but the rule's enabling authority was not checked.
 - **Local rules:** New York City and other local ordinances were not researched.
 
+## Pocket card
+
+**What's allowed:** The hitchhiking ban covers only the roadway, so the shoulder, curb or sidewalk is outside it. Stay off interstates, expressways and their ramps (rest areas excepted), and don't hitchhike anywhere on the Thruway.
+
+> **N.Y. Veh. & Traf. Law § 1157(a)**
+> (a) No person shall stand in a roadway for the purpose of soliciting a ride, or to solicit from or sell to an occupant of any vehicle.
+
+> **N.Y. Veh. & Traf. Law § 140**
+> § 140. Roadway. That portion of a highway improved, designed, or ordinarily used for vehicular travel, exclusive of the shoulder and slope.
+
+> **N.Y. Veh. & Traf. Law § 1229-a(a)**
+> No person, unless otherwise directed by a police officer shall: (a) As a pedestrian, occupy any space within the limits of a state expressway highway or state interstate route highway, including the entrances thereto and exits therefrom, except: in a rest area, parking area, or scenic overlook; [...]
+
 ## Sources
 
 - [N.Y. Veh. & Traf. Law § 1157](https://www.nysenate.gov/legislation/laws/VAT/1157)

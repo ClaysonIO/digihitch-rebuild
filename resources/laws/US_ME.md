@@ -110,6 +110,21 @@ Pedestrians are not permitted anywhere on the Maine Turnpike (I-95 from Kittery 
 - **Ramps:** That interstate on-ramps count as part of a "limited access highway" for § 2110(2)(B) is likely but was not confirmed by a definition.
 - **Local ordinances** (e.g. Portland) were not researched.
 
+## Pocket card
+
+**What's allowed:** In daytime, you may hitchhike from the shoulder of an ordinary road unless signs prohibit it. Not in travel lanes, not on the Maine Turnpike or other limited-access highways, and not on any public way at night.
+
+> **29-A M.R.S. § 2110(1), (2)**
+> 1. Definition. As used in this section, "hitchhike" means to endeavor by words, gestures or otherwise to beg, invite or secure transportation in a motor vehicle not engaged in carrying passengers for hire, unless the hitchhiker is known to the driver or a passenger.
+> 2. Violation. A person commits a traffic infraction if that person hitchhikes on:
+> A. The traveled portion of a public way;
+> B. A limited access highway, including but not limited to the Maine Turnpike; or
+> C. Any portion of a public way during the nighttime.
+
+> **29-A M.R.S. § 101 ("Daytime", "Nighttime")**
+> Daytime. "Daytime" means any time from 1/2 hour before sunrise to 1/2 hour after sunset.
+> Nighttime. "Nighttime" means a time other than daytime.
+
 ## Sources
 
 - [29-A M.R.S. § 2110](https://legislature.maine.gov/statutes/29-A/title29-Asec2110.html)

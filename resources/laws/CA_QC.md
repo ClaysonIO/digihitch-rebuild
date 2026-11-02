@@ -56,6 +56,16 @@ Penalty (per the SAAQ): "Pedestrians who don't obey the rules laid out in the Hi
 
 Next step for a maintainer: fetch the official English version at `https://www.legisquebec.gouv.qc.ca/en/document/cs/C-24.2` from a normal browser. Then quote the pedestrian articles, the definitions article, and the penalty articles.
 
+## Pocket card
+
+**What's allowed:** Per official SAAQ guidance, you may hitchhike off the roadway, such as on the shoulder, where passing is permitted. Don't hitchhike in no-passing zones or walk on autoroutes or their ramps. Code article numbers are unverified.
+
+> **SAAQ, "As a pedestrian: What the law says" (official guidance on the Highway Safety Code)**
+> If there is no sidewalk, pedestrians can walk along the side of the roadway or on the shoulder, against traffic. [...]
+> According to the Highway Safety Code, pedestrians must not: [...]
+> hitchhike on the roadway or in an area where passing is prohibited [...]
+> walk on highways or access ramps
+
 ## Sources
 
 - [SAAQ, "As a pedestrian: What the law says"](https://saaq.gouv.qc.ca/en/road-safety/modes-transportation/as-pedestrian/what-the-law-says)

@@ -90,6 +90,21 @@ Penalties: a violation of § 1056 or of the Traffic Committee rule is a civil "t
 - **Penalty amount:** The Cornell copy of the rule cites 23 V.S.A. § 2205(c) for penalties. That section was not retrieved. The waiver (ticket) amount for § 1056 under the Judicial Bureau schedule was not confirmed.
 - **Local ordinances** (e.g. Burlington) were not researched.
 
+## Pocket card
+
+**What's allowed:** You may solicit a ride from the shoulder of an ordinary road, but not while standing in the roadway. Hitchhiking and walking are banned on limited-access highways, including interstates and their ramps.
+
+> **23 V.S.A. § 1056(a)**
+> (a) Except as provided in subsection (b) of this section, no person may stand within the roadway of a highway as defined in subdivision 4(32) of this title for the purpose of soliciting a ride, contributions, employment, or business from the occupant of any vehicle.
+
+> **23 V.S.A. § 4(32)**
+> (32) "Roadway" is that portion of a highway improved, designed, or ordinarily used for vehicular traffic, exclusive of the shoulder.
+
+> **Code Vt. R. 14-053-004, Art. 2(9) and Definition C**
+> Soliciting of rides on limited access highways, commonly known as "hitchhiking," is prohibited.
+> [...]
+> C. Definition Limited access highways shall mean any portion of the right of way of a limited access facility [...] and shall include all ramps and highways provided for approach thereto.
+
 ## Sources
 
 - [23 V.S.A. § 1056](https://legislature.vermont.gov/statutes/section/23/013/01056)

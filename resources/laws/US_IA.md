@@ -88,6 +88,18 @@ The scheduled fine for soliciting a ride from the roadway is $35. Being a pedest
 
 **What it means:** Hitching from a traffic lane carries a $35 scheduled fine. Walking on an interstate carries a $135 scheduled fine. Court costs and surcharges are added to both.
 
+## Pocket card
+
+**What's allowed:** You may stand on the shoulder, or any part of the road not ordinarily used by traffic, to ask for a ride; Iowa law says so expressly. Not in travel lanes, and never anywhere on an interstate or freeway.
+
+> **Iowa Code § 321.331**
+> 1. No person shall stand in a roadway for the purpose of soliciting a ride from the driver of any private vehicle.
+> 2. Nothing in this section or this chapter shall be construed so as to prevent any pedestrian from standing on that portion of the highway or roadway, not ordinarily used for vehicular traffic, for the purpose of soliciting a ride from the driver of any vehicle.
+
+> **Iowa Code § 321.366(1)(g)**
+> 1. It is unlawful for a person, [...] to do any of the following on a fully controlled-access facility:
+> g. Ride a bicycle or use a pedestrian conveyance, or be a pedestrian, anywhere on a fully controlled-access facility.
+
 ## Sources
 
 - [Iowa Code § 321.331](https://www.legis.iowa.gov/docs/code/321.331.pdf)

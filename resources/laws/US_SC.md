@@ -109,6 +109,20 @@ What applies to hitchhikers:
 - The § 56-5-3180 history line shows no amendment since 1988, and I found no 2023 to 2026 change, but I did not search every recent bill.
 - Local ordinances (e.g. Charleston, Columbia, Myrtle Beach) were not checked.
 
+## Pocket card
+
+**What's allowed:** On ordinary roads, stand on the shoulder or sidewalk, not in a travel lane. Don't walk or stand on a freeway's travel lanes or shoulder; ask from the surface road before the on-ramp.
+
+> **S.C. Code § 56-5-3180(a)**
+> (a) No person shall stand in a roadway for the purpose of soliciting a ride.
+
+> **S.C. Code § 56-5-460**
+> A "roadway" is that portion of a highway improved, designed or ordinarily used for vehicular travel, exclusive of the shoulder or berm.
+
+> **S.C. Code § 56-5-3170(A)**
+> (A) No person as a pedestrian, unless otherwise directed by a law enforcement officer, shall occupy any space within the limits of the roadway and shoulder of the main facility of a freeway, except to perform public works or official duties, as a result of an emergency caused by an accident or breakdown of a motor vehicle, or to obtain assistance.
+> The prohibitions imposed by this subsection on the use of freeways do not apply to service roads alongside the highways.
+
 ## Sources
 
 - [S.C. Code Title 56, Chapter 5 (South Carolina Legislature), containing §§ 56-5-430, 56-5-460, 56-5-615, 56-5-3160, 56-5-3170, 56-5-3180, 56-5-6190](https://www.scstatehouse.gov/code/t56c005.php)

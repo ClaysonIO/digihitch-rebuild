@@ -137,6 +137,24 @@ The current wording of s. 177(1) and (2) was enacted by S.O. 1999, c. 8, s. 7(1)
 - No court decision was checked on whether a free ride is "another thing of value" under the Safe Streets Act, 1999.
 - City by-laws passed under HTA s. 185(2) (for example, Toronto expressways such as the Gardiner and the Don Valley Parkway) were not checked.
 
+## Pocket card
+
+**What's allowed:** Don't solicit a ride while on the roadway. The shoulder is not part of the roadway, so stand on the shoulder, curb or sidewalk. Pedestrians may not use 400-series highways, the QEW, the 407 or other Reg. 627 highways.
+
+> **Highway Traffic Act (Ont.), s. 177(1)**
+> 177 (1) No person, while on the roadway, shall solicit a ride from the driver of a motor vehicle other than a public passenger conveyance.
+
+> **Highway Traffic Act (Ont.), s. 1(1) "roadway"**
+> "roadway" means the part of the highway that is improved, designed or ordinarily used for vehicular traffic, but does not include the shoulder, [...]
+
+> **R.R.O. 1990, Reg. 627, s. 1(1) and Sched. 1**
+> 1. (1) Subject to subsection (2), pedestrians are prohibited from using those parts of the controlled-access highways described in Schedule 1.
+> [...]
+> 1. All of the King's Highways known as Nos. 401, 402, 403, 404, 405, 406, 409, 410, 412, 416, 417, 418 and 427 and the Queen Elizabeth Way.
+> 1.1 All of the King's Highway known as Highway 407 East.
+> 1.2 All of the private toll highway known as Highway 407.
+> 2. All of the King's Highway known as No. 400, except for that part of King's Highway No. 400 known as Rose Street in the City of Barrie [...]
+
 ## Sources
 
 - [Highway Traffic Act, R.S.O. 1990, c. H.8 (Ontario e-Laws, current consolidation)](https://www.ontario.ca/laws/statute/90h08)

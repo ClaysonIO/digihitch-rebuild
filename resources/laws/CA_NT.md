@@ -88,6 +88,19 @@ National parks (for example, the Wood Buffalo park roads): the federal [National
 - **Municipal by-laws** (Yellowknife, Hay River, Inuvik and others). I did not check them.
 - **Official status of the text.** The GNWT consolidation is an office consolidation "for convenience only". The authoritative text is the Revised Statutes plus annual volumes. I did not check bills after S.N.W.T. 2025, c. 3 for changes to Part IV.
 
+## Pocket card
+
+**What's allowed:** Hitchhiking is legal. No N.W.T. law bans soliciting a ride; s. 257 covers only employment or business. Stand on the shoulder, off the roadway, and walk on the left where there's no sidewalk.
+
+> **Motor Vehicles Act (N.W.T.), s. 257**
+> 257. No pedestrian shall be on a roadway for the purpose of soliciting employment or business with an occupant of a vehicle using the roadway.
+
+> **Motor Vehicles Act (N.W.T.), s. 1 "roadway"**
+> "roadway" means the part of a highway that is improved, designed or ordinarily used for the passage of vehicles, but does not include the shoulder of a highway;
+
+> **Motor Vehicles Act (N.W.T.), s. 255(2)**
+> (2) Where there is no sidewalk that is usable on either side of a roadway, a pedestrian shall, unless it is impracticable, walk or run on the left-hand side of the roadway or the shoulder of the highway.
+
 ## Sources
 
 - [Motor Vehicles Act, R.S.N.W.T. 1988, c. M-16 (GNWT office consolidation)](https://gnwt.ca/sites/default/files/legacy_justice/files/legislation/motor-vehicles/motor-vehicles.a.pdf)

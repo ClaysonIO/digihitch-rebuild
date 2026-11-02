@@ -85,6 +85,18 @@ Penalty: there is no hitchhiking offence. A breach of the pedestrian rules falls
 - Regulations under the Act and The Highways and Transportation Act, 1997 were not searched for pedestrian bans on particular highways (for example, sections of Highways 1, 11 or 16, or the Regina Bypass).
 - Municipal traffic by-laws (Regina, Saskatoon, Prince Albert, Moose Jaw) were not checked. They may restrict pedestrians on expressways such as Circle Drive or the Ring Road.
 
+## Pocket card
+
+**What's allowed:** Hitchhiking is legal. No Saskatchewan law bans soliciting a ride or bars pedestrians from controlled-access highways. Don't step into traffic, and when walking on the travelled part of a highway, keep close to the left edge.
+
+> **The Traffic Safety Act (Sask.), s. 223(3), (5)**
+> (3) No pedestrian shall leave a curb or other place of safety and proceed into the path of a vehicle on a highway that is so close that it is impracticable for the driver to yield the right of way.
+> [...]
+> (5) No person, other than a pedestrian in charge of an animal, shall walk along that portion of a highway used for vehicular traffic, except close to the edge on his or her left.
+
+> **The Traffic Safety Act (Sask.), s. 226**
+> 226 No driver of a vehicle shall enter or leave a controlled access highway except at a place where signs indicate that vehicles may do so.
+
 ## Sources
 
 - [The Traffic Safety Act, S.S. 2004, c. T-18.1 (Publications Saskatchewan consolidation, PDF)](https://publications.saskatchewan.ca/api/v1/products/12208/formats/18166/download)

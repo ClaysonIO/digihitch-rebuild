@@ -106,6 +106,20 @@ What applies to hitchhikers:
 - I did not obtain KDOT orders listing freeways closed to pedestrians under 8-1525. Signs are the operative notice.
 - City ordinances (Wichita, Kansas City KS, Topeka, Olathe) were not reviewed.
 
+## Pocket card
+
+**What's allowed:** You may hitchhike from the shoulder or curb, off the roadway (travel lanes). Never hitchhike or walk on the Kansas Turnpike, and on other freeways obey any sign banning pedestrians.
+
+> **K.S.A. 8-1538(a)**
+> (a) No person shall stand in a roadway for the purpose of soliciting a ride.
+
+> **K.S.A. 8-1459**
+> 8-1459. "Roadway" means that portion of a highway improved, designed, or ordinarily used for vehicular travel, exclusive of the berm or shoulder. [...]
+
+> **K.A.R. 39-1-1(a)(1), 39-1-2**
+> 39-1-1. (a) Entry upon and the use of the Kansas turnpike by the following shall be prohibited: (1) Pedestrians; [...]
+> 39-1-2. Solicitation of rides, commonly known as hitchhiking, on any portion of the turnpike is prohibited.
+
 ## Sources
 
 - [K.S.A. 8-1538 Soliciting rides, business or contributions](https://www.ksrevisor.gov/statutes/chapters/ch08/008_015_0038.html)

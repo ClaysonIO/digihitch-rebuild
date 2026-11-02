@@ -34,6 +34,10 @@ No Yukon statute or regulation text has been verified yet. See below.
 - **Freeway pedestrians.** Yukon has no freeways in the usual sense. Whether the Act or any regulation bans pedestrians on any class of highway, such as the Alaska Highway, is unconfirmed.
 - **Recent amendments.** A bill titled "Act to Amend the Motor Vehicles Act" (Bill 82, 33rd Legislative Assembly) exists. I could not retrieve it, so I don't know whether it touches pedestrian rules.
 
+## Pocket card
+
+**What's allowed:** Not verified yet. Yukon's Motor Vehicles Act text could not be retrieved, so this card cannot say whether Yukon restricts soliciting rides. The Whitehorse Traffic Bylaw has no hitchhiking rule.
+
 ## Sources
 
 - [Motor Vehicles Act, R.S.Y. 2002, c. 153 (official PDF, not retrievable by automated tools)](https://laws.yukon.ca/cms/images/LEGISLATION/PRINCIPAL/2002/2002-0153/2002-0153.pdf)

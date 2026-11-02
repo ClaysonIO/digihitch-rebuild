@@ -124,6 +124,21 @@ The province states: "The Traffic Safety Act (TSA) passed in the Nova Scotia Leg
 - Which highways (for example, the 100-series highways) carry "no pedestrians" signs under s. 26 was not confirmed.
 - Whether the Using the Road Regulations or other TSA regulations contain any further pedestrian rule for controlled-access highways was checked only by keyword search of N.S. Reg. 230/2026. Section 17 of those regulations covers drivers entering and leaving controlled-access highways, not pedestrians.
 
+## Pocket card
+
+**What's allowed:** Soliciting a ride is banned only on the main travelled way, which excludes paved and unpaved shoulders, so stand on the shoulder. Don't approach cars on the roadway, and obey any posted no-pedestrians sign.
+
+> **Traffic Safety Act (N.S.), s. 208(3)**
+> (3) No person shall stand on a main travelled way for the purpose of soliciting a ride.
+
+> **Traffic Safety Act (N.S.), s. 2 "main travelled way", "shoulder"**
+> "main travelled way" means the part of a roadway that is improved and ordinarily used for vehicular travel and, for greater certainty, does not include a paved shoulder, paved area provided for parking or bicycle lane;
+> [...]
+> "shoulder" means the paved or unpaved portion of a highway that is adjacent to, but does not form part of, the main travelled way;
+
+> **Traffic Safety Act (N.S.), s. 160**
+> 160 No pedestrian shall walk on or use a highway or a portion of the highway contrary to the regulations or the direction of a traffic control device, a traffic control person or a peace officer.
+
 ## Sources
 
 - [Traffic Safety Act, Chapter 20 of the Acts of 2025 (Nova Scotia Legislature, consolidated HTML)](https://nslegislature.ca/sites/default/files/legc/statutes%20HTML/traffic%20safety.htm)

@@ -109,6 +109,16 @@ What applies to hitchhikers:
 - I did not find an Idaho Transportation Department administrative rule (IDAPA) listing controlled-access highways closed to pedestrians under § 49-202(23). Closures are shown by signs.
 - No Idaho court decision was located applying § 49-709 to someone standing on a shoulder. The reading above follows the plain definition in § 49-109(4).
 
+## Pocket card
+
+**What's allowed:** Hitchhiking is illegal anywhere on an Idaho highway, including the shoulder and sidewalk. You may ask for rides from private property off the highway, such as gas stations or truck stops, with the owner's permission.
+
+> **Idaho Code § 49-709(1)**
+> (1) No person shall stand on a highway for the purpose of soliciting a ride.
+
+> **Idaho Code § 49-109(4)**
+> (4) "Highway" means the entire width between the boundary lines of every way publicly maintained when any part is open to the use of the public for vehicular travel, with jurisdiction extending to the adjacent property line, including sidewalks, shoulders, berms and rights-of-way not intended for motorized traffic. [...]
+
 ## Sources
 
 - [Idaho Code § 49-709](https://legislature.idaho.gov/statutesrules/idstat/Title49/T49CH7/SECT49-709/)

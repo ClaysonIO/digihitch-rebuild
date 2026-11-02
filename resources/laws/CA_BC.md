@@ -98,6 +98,21 @@ National parks in BC (Yoho, Kootenay, Glacier, Mount Revelstoke, Pacific Rim): t
 - **Amendment history of s. 182.** I did not pull the section's point-in-time history, so I can't say when the current wording ("must not be on a roadway") took effect.
 - **Municipal bylaws.** I did not check Vancouver, Victoria or other city bylaws for separate hitchhiking rules.
 
+## Pocket card
+
+**What's allowed:** Provincial law does not ban hitchhiking from the shoulder or sidewalk, only being on the roadway (travel lanes) to solicit a ride. Pedestrians are banned on Schedule 1 highways (parts of Highways 1, 5, 99 and others).
+
+> **B.C. Motor Vehicle Act s. 182(3), (4)**
+> (3) A person must not be on a roadway to solicit a ride, employment or business from an occupant of a vehicle.
+> (4) Except for a person who solicits a ride in an emergency situation, a person who contravenes this section commits an offence.
+
+> **B.C. Motor Vehicle Act s. 119 ("roadway")**
+> "roadway" means the portion of the highway that is improved, designed or ordinarily used for vehicular traffic, but does not include the shoulder [...]
+
+> **B.C. Reg. 26/58 (Motor Vehicle Act Regulations) s. 19.07(1)(d)**
+> (1) Except as authorized by a permit issued by the Minister of Transportation and Infrastructure, and except for crossing a highway at an intersection, use of any highway named in Schedule 1 by the following is prohibited at all times: [...]
+> (d) pedestrians, unless attending a disabled vehicle; [...]
+
 ## Sources
 
 - [Motor Vehicle Act, R.S.B.C. 1996, c. 318, Part 3 (ss. 119-182)](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96318_05)

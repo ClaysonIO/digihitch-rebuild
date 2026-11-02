@@ -92,6 +92,16 @@ What applies to hitchhikers:
 - Local ordinances (e.g. Las Vegas, Clark County, Reno) were not researched.
 - The fine amount for a civil infraction under NRS 484A.703 to 484A.705 was not retrieved.
 
+## Pocket card
+
+**What's allowed:** Hitchhiking is illegal anywhere in a Nevada highway, including the shoulder. You may ask for rides from places outside the highway right-of-way, such as gas stations, truck stops or parking lots, where the owner allows it.
+
+> **NRS 484B.297(3)**
+> 3. A person shall not stand in a highway to solicit a ride or any business from the driver or any occupant of a vehicle. [...]
+
+> **NRS 484A.095**
+> "Highway" means the entire width between the boundary lines of every way dedicated to a public authority when any part of the way is open to the use of the public for purposes of vehicular traffic, whether or not the public authority is maintaining the way.
+
 ## Sources
 
 - [NRS 484B.297](https://www.leg.state.nv.us/NRS/NRS-484B.html#NRS484BSec297)

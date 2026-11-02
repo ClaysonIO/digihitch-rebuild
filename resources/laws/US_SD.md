@@ -81,6 +81,17 @@ Search results point to a Sioux Falls ordinance making it unlawful "to stand in 
 - I found no Transportation Commission rule under § 32-26-11 in ARSD chapter 70:01:03 (Traffic safety). I did not search every chapter of ARSD Title 70. If DOT has posted "pedestrians prohibited" signs at interstate ramps without a rule, their enforceability is unclear. That is why `freeway_pedestrians` is marked `unclear`.
 - SDCL 32-27-5.1 was "Repealed by SL 1989, ch 255, § 183". I could not determine what it said.
 
+## Pocket card
+
+**What's allowed:** Hitchhiking is legal: no South Dakota statute bans soliciting a ride. Stay out of the travel lanes, don't block traffic, and obey any posted sign banning pedestrians from an interstate.
+
+> **S.D. Codified Laws § 32-27-5**
+> Where sidewalks are not provided any pedestrian walking along or upon a highway shall, when practicable, walk only on the left side of the roadway or its shoulder facing traffic which may approach from the opposite direction. [...]
+
+> **S.D. Codified Laws § 32-26-11**
+> The transportation commission may, by rule adopted pursuant to chapter 1-26, and local authorities may by ordinance, with respect to any controlled-access roadway under their respective jurisdictions, prohibit the use of any such roadway by pedestrians, bicycles, or other nonmotorized traffic [...]
+> The Department of Transportation or the local authority adopting any such prohibitory regulation shall erect and maintain official signs on the controlled-access roadway on which such regulations are applicable. If so erected no person may disobey the restrictions stated on such signs. [...]
+
 ## Sources
 
 - [SDCL ch. 32-27, Pedestrians' Rights and Duties](https://sdlegislature.gov/Statutes/32-27)

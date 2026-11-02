@@ -114,6 +114,21 @@ The bill added the proviso allowing roadway solicitation "on a roadway maintaine
 - City ordinances on roadway and median solicitation (Oklahoma City, Tulsa) were not reviewed.
 - I did not find any ODOT list of non-toll freeways closed to pedestrians under § 11-313.
 
+## Pocket card
+
+**What's allowed:** Off turnpikes, you may hitchhike from the shoulder or curb, off the roadway (safest is off the pavement or behind a curb). Never hitchhike or walk on a turnpike, and obey freeway pedestrian signs.
+
+> **47 O.S. § 11-507**
+> No person shall stand in a roadway for the purpose of soliciting a ride, donation, employment or business from the occupant of any vehicle; [...]
+
+> **47 O.S. § 1-158(a)**
+> (a) Roadway. That portion of a highway improved, designed or ordinarily used for vehicular travel, exclusive of the shoulder. [...]
+
+> **47 O.S. § 11-1401(A), (E)**
+> A. It shall be unlawful for any person to enter that part of a turnpike enclosed by fence except in a vehicle at authorized entrances.
+> [...]
+> E. It shall be unlawful for any person to travel a turnpike on foot except to leave or service a disabled vehicle, or for any person to hitchhike on a turnpike.
+
 ## Sources
 
 - [Oklahoma Statutes Title 47, Motor Vehicles (official complete-title PDF, compiled December 31, 2025)](https://www.oklegislature.gov/OK_Statutes/CompleteTitles/os47.pdf)

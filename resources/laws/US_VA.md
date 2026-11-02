@@ -108,6 +108,23 @@ The official site marks § 46.2-928 (walking along the road) as a "2026 updated 
 - I did not retrieve the 2026 c. 431 bill text, so I cannot say exactly which words of § 46.2-928 changed.
 - Localities may regulate soliciting contributions and handing out items on highways under § 46.2-931; that section concerns contributions and sales, not rides, and local ordinances were not checked.
 
+## Pocket card
+
+**What's allowed:** You may hitchhike from the shoulder or sidewalk; Virginia only bans standing or stopping in the roadway (travel lanes) to solicit rides. Don't pass markers barring pedestrians from controlled access highways.
+
+> **Va. Code § 46.2-929**
+> Pedestrians shall not stand or stop in any roadway for the purpose of soliciting rides.
+
+> **Va. Code § 46.2-100 ("Roadway", "Shoulder")**
+> "Roadway" means that portion of a highway improved, designed, or ordinarily used for vehicular travel, exclusive of the shoulder.
+> "Shoulder" means that part of a highway between the portion regularly traveled by vehicular traffic and the lateral curbline or ditch.
+
+> **Va. Code § 46.2-808(A)(1), (B)**
+> A. The Commonwealth Transportation Board may, when necessary to promote safety, prohibit the use of controlled access highways or any part thereof by any or all of the following:
+> 1. Pedestrians,
+> [...]
+> B. The termini of any section of controlled access highways, use of which is restricted under the provisions of this section, shall be clearly indicated by a conspicuous marker.
+
 ## Sources
 
 - [Va. Code § 46.2-929](https://law.lis.virginia.gov/vacode/title46.2/chapter8/section46.2-929/)

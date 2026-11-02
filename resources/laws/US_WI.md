@@ -101,6 +101,19 @@ The penalties are small civil forfeitures. A first violation of § 346.29 costs 
 - Wis. Stat. § 346.02(8)(a) says that chapter 346's rules on "highways, streets, alleys, roadways and sidewalks also apply to pedestrian ways," defined as "a walk designated for the use of pedestrian travel." Some online guides read this as making hitchhiking from sidewalks illegal. No primary source was found supporting that reading, and the hitchhiking ban itself is tied to the "roadway."
 - Local ordinances (for example in Milwaukee or Madison) were not checked.
 
+## Pocket card
+
+**What's allowed:** You may ask for a ride from the shoulder or behind the curb; Wisconsin's "roadway" excludes the shoulder. Don't solicit from travel lanes, and don't enter expressways or freeways signed against pedestrians.
+
+> **Wis. Stat. § 346.29(1)**
+> (1) No person shall be on a roadway for the purpose of soliciting a ride from the operator of any vehicle other than a public passenger vehicle.
+
+> **Wis. Stat. § 340.01(54)**
+> (54) "Roadway" means that portion of a highway between the regularly established curb lines or that portion which is improved, designed or ordinarily used for vehicular travel, excluding the berm or shoulder.
+
+> **Wis. Stat. § 346.16(2)(a)**
+> (2) (a) Except as provided in par. (b), no pedestrian or person riding a bicycle or other nonmotorized vehicle and no person operating a moped or motor bicycle may go upon any expressway or freeway when official signs have been erected prohibiting such person from using the expressway or freeway.
+
 ## Sources
 
 - [Wis. Stat. § 346.29 (LawServer)](https://www.lawserver.com/law/state/wisconsin/wi-laws/wisconsin_laws_346-29)

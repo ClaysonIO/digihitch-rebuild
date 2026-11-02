@@ -103,6 +103,19 @@ A violation of the regulation carries the fine set under the Provincial Offences
 - **History.** I did not check whether Alberta's pre-2002 Highway Traffic Act had a hitchhiking rule.
 - **Ticket amount.** I did not retrieve the specified penalty for s. 90 under the Procedures Regulation.
 
+## Pocket card
+
+**What's allowed:** Hitchhiking is legal: no provincial law prohibits soliciting a ride. Where there's a sidewalk or path, use it and stay off the roadway; otherwise use the shoulder, walk facing traffic, and obey local bylaws and signs.
+
+> **Alta. Reg. 304/2002 (Use of Highway and Rules of the Road Regulation) s. 90**
+> 90(1) When a sidewalk or path is located beside a roadway, a pedestrian
+> (a) shall at all times when it is reasonable and practicable to do so use the sidewalk or path, and
+> (b) shall not proceed along or remain on the roadway.
+> (2) If there is no sidewalk or path, a pedestrian who is proceeding along or on a highway shall at all times when reasonable and practicable to do so, proceed only on the left side of the roadway or the shoulder of the highway facing traffic approaching from the opposite direction.
+
+> **Traffic Safety Act, R.S.A. 2000, c. T-6, s. 1(1)(nn)**
+> (nn) "roadway" means that part of a highway intended for use by vehicular traffic;
+
 ## Sources
 
 - [Use of Highway and Rules of the Road Regulation, Alta. Reg. 304/2002 (PDF)](https://kings-printer.alberta.ca/documents/Regs/2002_304.pdf)

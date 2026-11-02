@@ -88,6 +88,20 @@ Before this bill, § 41-6a-1009(4)(d) read: "Conduct that impedes or blocks traf
 
 **What it means:** Older guides that say "Utah bans soliciting rides on highways" describe the pre-2017 law.
 
+## Pocket card
+
+**What's allowed:** Hitchhiking is legal. No Utah law bans soliciting a ride. Stand on the shoulder or sidewalk without blocking traffic, and don't walk on a no-access freeway.
+
+> **Utah Code § 41-6a-1009(4)(a), (d)**
+> (4)(a) An individual may not impede or block traffic within any of the following: [...]
+> (d) Conduct that may impede or block traffic includes:
+> (i) while a pedestrian, accepting, transacting, exchanging, or otherwise taking possession or control of money or property from a person within a motor vehicle while that motor vehicle is within an area described in Subsection (4)(a); [...]
+
+> **Utah Code § 41-6a-1009(2), (7)**
+> (2) Where a sidewalk is not provided, a pedestrian walking along or on a highway shall walk only on the shoulder, as far as practicable from the edge of the roadway.
+> [...]
+> (7) A pedestrian may not walk along or on a no-access freeway facility except during an emergency.
+
 ## Sources
 
 - [Utah Code § 41-6a-1009 (current)](https://le.utah.gov/xcode/Title41/Chapter6A/41-6a-S1009.html)

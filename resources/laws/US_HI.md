@@ -100,6 +100,16 @@ A violation is a traffic violation (not a crime), with a fine of up to $250 for 
 - **Freeway pedestrian ban.** I did not find a Hawaii Administrative Rules section that names pedestrians. The ban appears to rest on posted signs under § 291C-53(b).
 - **Official site access.** capitol.hawaii.gov blocked automated access. The statute text above comes from the Legislature's own data.capitol.hawaii.gov mirror of the current HRS.
 
+## Pocket card
+
+**What's allowed:** Illegal statewide: you may not stand on any part of a highway, including the shoulder, to solicit a ride, unless a county ordinance allows it. Otherwise, ask from private property such as parking lots or gas stations.
+
+> **Haw. Rev. Stat. § 291C-77(a)**
+> (a) Except as otherwise provided by county ordinance, no person shall stand in, walk along, or otherwise occupy a portion of a highway for the purpose of soliciting a ride, employment, business, or contributions from the occupant of any vehicle.
+
+> **Haw. Rev. Stat. § 291C-1 ("Highway")**
+> "Highway" means the entire width between the boundary lines of every way publicly maintained [...] when any part thereof is open to the use of the public for purposes of vehicular travel.
+
 ## Sources
 
 - [HRS § 291C-77, Pedestrians soliciting rides, business, or attention of motorist](https://data.capitol.hawaii.gov/hrscurrent/Vol05_Ch0261-0319/HRS0291C/HRS_0291C-0077.htm)

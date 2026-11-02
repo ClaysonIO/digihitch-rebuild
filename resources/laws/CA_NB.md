@@ -104,6 +104,19 @@ Penalty: s. 174(3) is a category B offence under the Provincial Offences Procedu
 - The laws.gnb.ca page displayed "Current to 1 January 2024". Amendments after that date to ss. 1, 160 or 174 were not checked.
 - Which controlled-access roadways currently have pedestrian prohibition orders under s. 160 (for example, Route 2 and Route 1, or the Fredericton and Moncton bypasses) was not confirmed.
 
+## Pocket card
+
+**What's allowed:** Don't solicit a ride on the roadway, which includes a paved shoulder. Stand off the roadway: on a gravel shoulder, verge, sidewalk or pull-off. Stay off controlled-access roads where a no-pedestrians sign is posted at the entrance.
+
+> **Motor Vehicle Act (N.B.), s. 174(3)**
+> 174 (3) No person shall be on a roadway for the purpose of soliciting a ride, employment or business from an occupant of a vehicle.
+
+> **Motor Vehicle Act (N.B.), s. 1 "roadway"**
+> "roadway" means that portion of a highway improved, designed or ordinarily used for vehicular travel, exclusive of the shoulder unless the shoulder is paved [...]
+
+> **Motor Vehicle Act (N.B.), s. 160(2)**
+> 160 (2) Notice of such prohibition shall be given by the erection of a traffic control device at each entrance to the controlled-access roadway and no person shall walk or drive on the roadway in disobedience to a prohibition indicated by the traffic control device.
+
 ## Sources
 
 - [Motor Vehicle Act, R.S.N.B. 1973, c. M-17 (laws.gnb.ca)](https://laws.gnb.ca/en/document/cs/M-17)

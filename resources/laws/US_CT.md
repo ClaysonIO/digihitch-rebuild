@@ -110,6 +110,17 @@ In practice: hitchhike from the shoulder of the local road or the approach to an
 - **Actual fine:** The statute says $35, but Connecticut infraction amounts may also be set by the Superior Court's infractions schedule plus fees. The amount actually charged was not confirmed.
 - **Penalty for violating the § 14-298 regulations** (for example, walking on an interstate) was not confirmed.
 
+## Pocket card
+
+**What's allowed:** You may solicit a ride from the shoulder of any public highway, but not from the travel lanes. Hitchhiking is banned anywhere on limited-access highways and parkways, ramps and shoulders included.
+
+> **Conn. Gen. Stat. § 53-181**
+> Any person who, while on or within the limits of the traveled portion of any public highway, solicits a ride in a motor vehicle, other than a public service motor bus or taxicab, except in case of accident or emergency, shall be deemed to have committed an infraction and be fined thirty-five dollars, except that any person may, while on or within the shoulder portion of any public highway, except a limited access highway, solicit such a ride.
+
+> **Regs. Conn. State Agencies § 14-298-243**
+> (a) Hitchhiking, soliciting of rides and loitering are prohibited within the highway right of way.
+> (b) The picking up of hitchhikers within the highway right of way is prohibited.
+
 ## Sources
 
 - [Conn. Gen. Stat. § 53-181 (LawServer mirror)](https://www.lawserver.com/law/state/connecticut/ct-laws/connecticut_statutes_53-181)

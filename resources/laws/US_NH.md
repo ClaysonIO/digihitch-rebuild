@@ -77,6 +77,15 @@ No New Hampshire statute or NHDOT rule banning pedestrians from limited-access h
 - **Fine amount** for a violation of RSA 265:40 was not confirmed.
 - **Local ordinances** were not researched.
 
+## Pocket card
+
+**What's allowed:** State law expressly allows hitchhiking on any road, including limited-access highways, as long as you stand off the paved portion. Never stand in the travel lanes.
+
+> **N.H. Rev. Stat. Ann. § 265:40, I, III**
+> I. No person shall stand on the travelled portion of a roadway for the purpose of soliciting a ride, employment, business or contributions from the occupant of any vehicle.
+> [...]
+> III. It shall be lawful for any person to hitchhike or solicit a ride from the occupant of any vehicle upon any road or way, or limited access road and highway provided that the individual is not, when so doing, standing on the paved portion of the road or way.
+
 ## Sources
 
 - [RSA 265:40](https://gc.nh.gov/rsa/html/XXI/265/265-40.htm)

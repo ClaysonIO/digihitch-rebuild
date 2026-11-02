@@ -126,6 +126,19 @@ H.B. 189 ("AN ACT relating to pedestrians") became law without the Governor's si
 - Which roads count as "state-maintained" was not mapped. Generally that means interstates, parkways and numbered U.S. and KY routes.
 - Local exception ordinances (Louisville Metro, Lexington-Fayette) were not checked.
 
+## Pocket card
+
+**What's allowed:** Since July 15, 2026, hitchhiking is illegal along state-maintained roads: no standing anywhere in their right-of-way, shoulders and ramps included, except sidewalks, crosswalks or transit stops. On city and county streets, stay out of travel lanes.
+
+> **KRS 189.572(1)(b), (2), (3)(d)**
+> (b) "State-maintained right-of-way" means any land, property, or infrastructure under the jurisdiction or maintenance of the Kentucky Transportation Cabinet that is used by the public for transportation purposes, including but not limited to travel lanes, paved and unpaved shoulders, medians, entrance and exit ramps, and adjacent grassy or drainage areas not designated for pedestrian use.
+> (2) Except as provided in subsection (3) or (4) of this section, a person shall not sit, kneel, recline, stand, or remain physically stationary in any portion of a state-maintained right-of-way that is not designated for pedestrian use.
+> [...]
+> (d) Persons located within a pedestrian-designated area such as a sidewalk, marked crosswalk, or transit stop.
+
+> **KRS 189.570(19)**
+> (19) A person shall not stand in a roadway for the purpose of soliciting a ride.
+
 ## Sources
 
 - [KRS 189.572](https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=57272)

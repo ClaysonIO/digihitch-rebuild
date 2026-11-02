@@ -101,8 +101,50 @@ function splitSections(body) {
   return { title, statusLine, sections };
 }
 
+
+// ---------- Pocket card ----------
+// "## Pocket card" holds a short "What's allowed" line and 0+ blockquote excerpts:
+//   > **Citation**
+//   > verbatim text copied from the "## Laws" quotes (may use [...] for omissions)
+// Every excerpt fragment must appear in the file's own Laws quotes, so cards never
+// contain law text that wasn't already sourced and checked.
+const CARD_ALLOWED_MAX_WORDS = 45;
+const CARD_QUOTE_MAX_WORDS = 200;
+
+const normText = (s) => s.toLowerCase().replace(/\*+/g, "").replace(/[\u2018\u2019]/g, "'").replace(/[\u201c\u201d]/g, '"')
+  .replace(/[^a-z0-9\u00c0-\u024f]+/g, " ").replace(/\s+/g, " ").trim();
+const words = (s) => (s.match(/\S+/g) || []).length;
+
+function parseCard(md, lawsMd, file, errors, status) {
+  if (!md) return null;
+  const allowed = (md.match(/^\*\*What's allowed:\*\*\s*(.+)$/m) || [])[1];
+  if (!allowed) errors.push(`${file}: pocket card is missing a "**What's allowed:**" line`);
+  else if (words(allowed) > CARD_ALLOWED_MAX_WORDS) errors.push(`${file}: pocket card "What's allowed" is ${words(allowed)} words (max ${CARD_ALLOWED_MAX_WORDS})`);
+  const lawsQuotes = normText(lawsMd.split("\n").filter((l) => l.startsWith(">")).map((l) => l.replace(/^>\s?/, "")).join(" "));
+  const excerpts = [];
+  for (const block of md.split(/\n\s*\n/)) {
+    const lines = block.split("\n").filter((l) => l.startsWith(">")).map((l) => l.replace(/^>\s?/, ""));
+    if (!lines.length) continue;
+    const cite = (lines[0].match(/^\*\*(.+)\*\*\s*$/) || [])[1];
+    if (!cite) { errors.push(`${file}: pocket card excerpt must start with a bold citation line: "${lines[0].slice(0, 60)}"`); continue; }
+    const text = lines.slice(1).join("\n").trim();
+    if (!text) { errors.push(`${file}: pocket card excerpt "${cite}" has no text`); continue; }
+    for (const frag of text.split(/\[\s*(?:\.\.\.|\u2026)\s*\]|\n/)) {
+      const n = normText(frag);
+      if (n.split(" ").length < 3) continue;
+      if (!lawsQuotes.includes(n)) errors.push(`${file}: pocket card text for "${cite}" is not verbatim from the Laws quotes: "${frag.trim().slice(0, 90)}"`);
+    }
+    excerpts.push({ cite, text });
+  }
+  const total = excerpts.reduce((n, e) => n + words(e.text), 0);
+  if (total > CARD_QUOTE_MAX_WORDS) errors.push(`${file}: pocket card excerpts total ${total} words (max ${CARD_QUOTE_MAX_WORDS})`);
+  if (!excerpts.length && status !== "unverified") errors.push(`${file}: pocket card needs at least one law excerpt`);
+  return { allowed: allowed || "", excerpts };
+}
+
 function build() {
   const errors = [];
+  const missingCards = [];
   const entries = [];
   const regionNames = new Set(REGIONS.map(([, r]) => r));
   const files = readdirSync(lawsDir).filter((f) => /^[A-Z]{2}_[A-Z]{2}\.md$/.test(f)).sort();
@@ -124,16 +166,23 @@ function build() {
     if (!sections.laws) errors.push(`${file}: missing "## Laws" section`);
     if (!sections.sources) errors.push(`${file}: missing "## Sources" section`);
     if (!/\]\(https?:\/\//.test(fm.body)) errors.push(`${file}: no source links found`);
+    const card = parseCard(sections["pocket-card"], sections.laws || "", file, errors, d.status);
+    if (!card) missingCards.push(file);
 
     entries.push({
       ...d,
       file: `resources/laws/${file}`,
       title,
       statusLine,
+      card,
       sections,
     });
   }
 
+  if (missingCards.length) {
+    const msg = `${missingCards.length} file(s) have no "## Pocket card" section: ${missingCards.join(", ")}`;
+    errors.push(msg);
+  }
   if (errors.length) {
     console.error(`Found ${errors.length} problem(s):\n  ` + errors.join("\n  "));
     process.exit(1);

@@ -18,7 +18,7 @@ Ground rules for everything below:
 
 ## Progress so far
 
-- **Shipped in v1:** the per-jurisdiction law reference (64 files in `resources/laws/`), the clickable colour-coded status map (#4), and basic printable regional handouts (#1). The handouts are browser print layouts with an option to show or hide the plain-English explanations and to print one jurisdiction per page. QR codes and pre-built PDFs are still to do.
+- **Shipped in v1:** the per-jurisdiction law reference (64 files in `resources/laws/`), the clickable colour-coded status map (#4), and printable pocket law cards (#1). A pocket card is one double-sided US Letter sheet per region, or per custom route, laid out as 3 × 4 panels that fold to credit-card size. Each panel stands alone: what's allowed, plus the exact law text and citation. Cards come from each law file's `## Pocket card` section, which the build checks word for word against the file's quotes. Still to do: QR codes, pre-built PDFs, and an A4 layout.
 - **Research follow-ups from the first law pass:**
   - **Yukon (`CA_YT.md`)** is marked `unverified`. Its Motor Vehicles Act could not be retrieved, because laws.yukon.ca, CanLII and the Internet Archive blocked automated access. A maintainer with a normal browser should quote the pedestrian, definitions and penalty sections.
   - **Quebec (`CA_QC.md`)** is based on official SAAQ guidance, not statute text, for the same reason (LégisQuébec and CanLII). The articles of the *Highway Safety Code* need to be quoted.

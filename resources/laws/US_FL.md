@@ -100,6 +100,19 @@ The section's history line shows it was last amended by chapter 2021-6, Laws of 
 - Local ordinances (for example, Miami-Dade, Orlando, Tampa) may restrict roadside solicitation more tightly. None were checked.
 - Court costs added to the $15 base penalty vary by county and were not checked.
 
+## Pocket card
+
+**What's allowed:** Stand on the shoulder, curb or sidewalk; Florida only bans standing in the paved travel part of the roadway to solicit a ride. Don't walk on interstates, turnpikes, expressways or their ramps.
+
+> **Fla. Stat. § 316.130(5)**
+> (5) No person shall stand in the portion of a roadway paved for vehicular traffic for the purpose of soliciting a ride, employment, or business from the occupant of any vehicle.
+
+> **Fla. Stat. § 316.003(74)**
+> (74) ROADWAY.—That portion of a highway improved, designed, or ordinarily used for vehicular travel, exclusive of the berm or shoulder.
+
+> **Fla. Stat. § 316.130(18)**
+> (18) No pedestrian shall walk upon a limited access facility or a ramp connecting a limited access facility to any other street or highway; [...]
+
 ## Sources
 
 - [Fla. Stat. § 316.130](http://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0316/Sections/0316.130.html)

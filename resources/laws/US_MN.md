@@ -94,6 +94,19 @@ A violation is normally a petty misdemeanor, punishable by a fine of up to $300 
 - The commissioner's orders under § 169.305 that close specific controlled-access highways to pedestrians were not located. In practice, rely on the posted signs.
 - Local ordinances (for example Minneapolis or St. Paul) were not checked.
 
+## Pocket card
+
+**What's allowed:** You may ask for a ride from the shoulder or sidewalk; Minnesota's "roadway" excludes them. Don't stand in travel lanes or on shoulders opened to traffic, and obey "no pedestrians" signs on freeways.
+
+> **Minn. Stat. § 169.22, subd. 1**
+> No person shall stand in a roadway for the purpose of soliciting a ride from the driver of any private vehicle.
+
+> **Minn. Stat. § 169.011, subd. 68**
+> "Roadway" means that portion of a highway improved, designed, or ordinarily used for vehicular travel, exclusive of the sidewalk or shoulder. During periods when the commissioner allows the use of dynamic shoulder lanes as defined in subdivision 25, roadway includes that shoulder.
+
+> **Minn. Stat. § 169.305**
+> (d) The commissioner of transportation or the public authority adopting any such prohibitory rules shall erect and maintain official signs on the controlled-access highway on which such rules are applicable and when so erected no person shall disobey the restrictions stated on such signs.
+
 ## Sources
 
 - [Minn. Stat. § 169.22](https://www.revisor.mn.gov/statutes/cite/169.22)

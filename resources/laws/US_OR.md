@@ -111,6 +111,21 @@ What applies to hitchhikers:
 
 **What it means:** A hitchhiking ticket is a violation, not a crime. The maximum is $250, the usual (presumptive) fine is $115, and you can't be jailed for it.
 
+## Pocket card
+
+**What's allowed:** Hitchhiking from the shoulder is legal: Oregon bans only being on the roadway (travel lanes) to solicit a ride, and lets hitchhikers stand on the right shoulder facing traffic. Signed Portland and Medford freeway segments ban pedestrians.
+
+> **ORS 814.080(1)**
+> (1) A person commits the offense of unlawful hitchhiking if the person is on a roadway for the purpose of soliciting a ride.
+
+> **ORS 801.450**
+> 801.450 Roadway. "Roadway" means the portion of a highway that is improved, designed or ordinarily used for vehicular travel, exclusive of the shoulder. [...]
+
+> **ORS 814.070(1)(c)(A)**
+> (1) A pedestrian commits the offense of pedestrian with improper position upon or improperly proceeding along a highway if the pedestrian does any of the following: [...]
+> (c) Except in the case of the divided highway, does not take a position upon or proceed along and upon the left shoulder and as far as practicable from the roadway edge on a two-way highway that has no sidewalk and that does have an adjacent shoulder area. This paragraph does not apply to:
+> (A) A hitchhiker who takes a position upon or proceeds along and upon the right shoulder so long as the hitchhiker does so facing the vehicles using the adjacent lane of the roadway; [...]
+
 ## Sources
 
 - [ORS chapter 814 (Pedestrians), incl. 814.070, 814.080, 814.100](https://www.oregonlegislature.gov/bills_laws/ors/ors814.html)

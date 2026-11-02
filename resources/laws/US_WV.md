@@ -76,6 +76,20 @@ What applies to hitchhikers:
 - A search result pointed to a 2024 House Bill 4885 committee substitute that would have retitled § 17C-10-6 to add "unlawful traffic interference." The current official text quoted above does not include any such change, and I did not confirm the bill's fate.
 - Local ordinances (e.g. Charleston, Morgantown) were not checked.
 
+## Pocket card
+
+**What's allowed:** You may hitchhike from the shoulder or berm; West Virginia only bans standing in the roadway (travel lanes) to solicit a ride. Obey signs barring pedestrians from controlled-access roads such as interstates.
+
+> **W. Va. Code § 17C-10-6(c)**
+> (c) No person shall stand in a roadway for the purpose of soliciting a ride from the driver of any vehicle.
+
+> **W. Va. Code § 17C-1-37**
+> "Roadway" means that portion of a highway improved, designed, or ordinarily used for vehicular travel, exclusive of the berm or shoulder.
+
+> **W. Va. Code § 17C-7-13**
+> The state road commission may by resolution or order entered in its minutes and local authorities may by ordinance with respect to any controlled-access roadway under their respective jurisdictions prohibit the use of any such roadway by pedestrians, [...]
+> The state road commission or the local authority adopting any such prohibitory regulation shall erect and maintain official signs on the controlled-access roadway on which such regulations are applicable and when so erected no person shall disobey the restrictions stated on such signs.
+
 ## Sources
 
 - [W. Va. Code § 17C-10-6](https://code.wvlegislature.gov/17C-10-6/)

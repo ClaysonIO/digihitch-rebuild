@@ -115,6 +115,19 @@ The ride-solicitation text of 700 CMR 9.09(6) is identical to that of the older 
 - **Whether every interstate outside the Turnpike is signed** "No Pedestrians" under 700 CMR 9.08 was not checked.
 - **Municipal rules:** Cities and towns may adopt pedestrian rules (M.G.L. c. 90, § 18A). These were not researched.
 
+## Pocket card
+
+**What's allowed:** State rules do not ban hitchhiking from the shoulder or sidewalk. Don't stand in a state-highway roadway, and don't hitchhike or walk anywhere on the Mass Pike or Boston Metropolitan Highway System, or past posted "No Pedestrians" signs.
+
+> **700 CMR 9.09(6)**
+> (6) Pedestrians Soliciting Rides or Business. No person shall stand in a roadway for the purpose of soliciting a ride, employment or business from the operator or occupant of any vehicle without the written permission of the board or officer having control of such roadway or highway.
+
+> **700 CMR 9.01 ("Roadway")**
+> Roadway. That portion of a highway between regularly established curb lines or that part, exclusive of shoulders, improved and intended to be used for vehicular traffic.
+
+> **700 CMR 7.06(7) (Turnpike and Metropolitan Highway System)**
+> (7) Hitchhiking and Loitering. No individual may engage in the solicitation of a ride, commonly known as "hitchhiking", on a way. [...]
+
 ## Sources
 
 - [700 CMR 7.06 (Cornell LII)](https://www.law.cornell.edu/regulations/massachusetts/700-CMR-7-06)

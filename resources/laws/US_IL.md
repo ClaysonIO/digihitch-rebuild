@@ -120,6 +120,19 @@ What applies to hitchhikers:
 - Whether IDOT has formally closed every Illinois interstate to pedestrians under § 11-711(b), and the text of any such IDOT order, was not found. In practice, check the "no pedestrians" signs at ramps.
 - Chicago and other municipalities may have their own ordinances. These were not checked.
 
+## Pocket card
+
+**What's allowed:** You may ask for a ride from the shoulder or sidewalk; Illinois's "roadway" excludes the shoulder. Don't stand in travel lanes, ask for money or work, walk onto signed no-pedestrian expressways, or hitchhike on the Tollway.
+
+> **625 ILCS 5/11-1006(a)**
+> (a) No person shall stand in a roadway for the purpose of soliciting a ride from the driver of any vehicle.
+
+> **625 ILCS 5/1-179**
+> That portion of a highway improved, designed or ordinarily used for vehicular travel, exclusive of the berm or shoulder.
+
+> **92 Ill. Adm. Code 2520.254**
+> No person shall solicit or attempt to solicit rides from the driver of any vehicle using the Tollway.
+
 ## Sources
 
 - [625 ILCS 5/11-1006 (Onecle)](https://law.onecle.com/illinois/625ilcs5/11-1006.html)

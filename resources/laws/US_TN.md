@@ -114,6 +114,21 @@ The bill's summary reads: "As enacted, prohibits persons from loitering or condu
 - **Text source:** The statutes were read from FindLaw (current as of January 2, 2024) through a fetch tool that returns quoted segments. They were not compared with the official LexisNexis text. Amendments from 2024 to 2026 were not ruled out; a search found no bill naming § 55-8-139.
 - Local ordinances (Nashville/Metro, Memphis, Knoxville) were not checked.
 
+## Pocket card
+
+**What's allowed:** Stand on the shoulder or curb, not in the roadway; Tennessee's "roadway" excludes the shoulder. Don't loiter in state-highway medians. No hitchhiking in state parks or natural areas; treat interstates as off limits.
+
+> **Tenn. Code Ann. § 55-8-139(a)(1), (c)**
+> (a)(1) No person shall stand in a roadway for the purpose of soliciting a ride or employment from the occupant of any vehicle.
+> [...]
+> (c) No person shall loiter or conduct any commercial activity in, or in proximity to, the median of a state highway.
+
+> **Tenn. Code Ann. § 55-8-101(68)**
+> (68) "Roadway" means that portion of a highway improved, designed or ordinarily used for vehicular travel, exclusive of the berm or shoulder.
+
+> **Tenn. Comp. R. & Regs. 0400-02-02-.04(2) (state parks)**
+> (2) Hitchhiking or the soliciting of transportation is prohibited.
+
 ## Sources
 
 - [Tenn. Code Ann. § 55-8-139 (FindLaw)](https://codes.findlaw.com/tn/title-55-motor-and-other-vehicles/tn-code-sect-55-8-139.html)

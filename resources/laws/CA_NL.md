@@ -87,6 +87,16 @@ Penalty: a fine of $25 to $180 for soliciting rides on the roadway. In default o
 - St. John's, Mount Pearl, Corner Brook and other municipal by-laws were not checked.
 - The House of Assembly page does not state a single "current to" date. The amendment list ends with 2024 enactments, and 2025 or 2026 amendments were not checked.
 
+## Pocket card
+
+**What's allowed:** Don't solicit a ride on the roadway, which includes a paved shoulder. Stand off the roadway: on an unpaved shoulder, verge, sidewalk or pull-off. No provincial statute bans pedestrians from controlled-access highways; obey posted signs.
+
+> **Highway Traffic Act (N.L.), s. 128(3)**
+> (3) A person shall not be on a roadway for the purpose of soliciting a ride, employment or business from the occupant of a vehicle.
+
+> **Highway Traffic Act (N.L.), s. 2(jjj) "roadway"**
+> (jjj) "roadway" means the portion of a highway that is improved, designed or ordinarily used for vehicular traffic, but does not include the shoulder unless the shoulder is paved, [...]
+
 ## Sources
 
 - [Highway Traffic Act, R.S.N.L. 1990, c. H-3 (House of Assembly of Newfoundland and Labrador)](https://www.assembly.nl.ca/Legislation/sr/statutes/h03.htm)

@@ -104,6 +104,21 @@ Penalty: § 39:4-59 does not set its own penalty, so the general penalty in § 3
 - **NJDOT pedestrian rules for interstates and other state limited-access highways** under N.J.S.A. 27:7A-6 (N.J.A.C. Title 16) were not retrieved. The Atlantic City Expressway (South Jersey Transportation Authority) rules were not checked either.
 - **Local ordinances** were not researched.
 
+## Pocket card
+
+**What's allowed:** Hitchhiking is illegal anywhere in a public highway, shoulder included. You may ask for rides off the highway on private property, such as a gas station or truck stop, with permission, but not at Turnpike or Parkway service areas.
+
+> **N.J.S.A. 39:4-59**
+> No person shall stand in a highway for the purpose of or while soliciting a ride from the operator of any vehicle other than an omnibus or a street car.
+
+> **N.J.S.A. 39:1-1 ("Highway")**
+> "Highway" means the entire width between the boundary lines of every way publicly maintained when any part thereof is open to the use of the public for purposes of vehicular travel.
+
+> **N.J.A.C. 19:9-1.13(b); 19:9-1.1**
+> (b) Soliciting of rides on the Roadway is prohibited.
+> [...]
+> "Roadway" means, collectively, the Turnpike and the Parkway.
+
 ## Sources
 
 - [New Jersey Legislature, Statutes text download (STATUTES-TEXT.zip; N.J.S.A. 39:4-59, 39:1-1, 39:4-203, 27:7A-6)](https://pub.njleg.gov/statutes/STATUTES-TEXT.zip)

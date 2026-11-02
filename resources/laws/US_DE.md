@@ -117,6 +117,22 @@ What applies to hitchhikers:
 - The § 4147 history note on the official site ends with 67 Del. Laws c. 39; I found no 2023 to 2026 amendment, but did not search every recent bill.
 - Local ordinances (e.g. Wilmington) were not checked.
 
+## Pocket card
+
+**What's allowed:** Standing anywhere in a public highway to solicit a ride is illegal, shoulder included, though not jailable alone. Ask off the public right-of-way, e.g. a gas station or parking lot with permission. Don't walk on controlled-access highways.
+
+> **21 Del. C. § 4147(c), (d)**
+> (c) No person shall stand in a highway for the purpose of soliciting a ride.
+> (d) No person shall at any time be jailed solely for violation of subsection (c) of this section.
+
+> **21 Del. C. § 101(29)**
+> (29) "Highway" means the entire width between boundary lines of every way or place of whatever nature open to the use of the public as a matter of right for purposes of vehicular travel, but does not include a road or driveway upon grounds owned by private persons, colleges, universities or other institutions.
+
+> **21 Del. C. § 4126(a)(11)**
+> (a) On any state highway designated by the Department of Transportation as a "controlled-access highway," no person shall:
+> [...]
+> (11) Walk as a pedestrian except to contact aid in the event of an accident, breakdown or other emergency;
+
 ## Sources
 
 - [21 Del. C. §§ 4140, 4146, 4147 (Delaware Code Online)](https://delcode.delaware.gov/title21/c041/sc05/index.html)

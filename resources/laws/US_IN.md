@@ -98,6 +98,19 @@ A violation of the pedestrian chapter is a Class C infraction, which is a civil 
 - The statute that sets the penalty for violating the INDOT rules in 105 IAC 9-1 was not identified.
 - 105 IAC 9-1-2 was quoted from Cornell LII, not from the official Indiana Register.
 
+## Pocket card
+
+**What's allowed:** You may not stand in the roadway (travel lanes) to solicit a ride, except in an emergency. Thumb from the shoulder, curb or sidewalk. Pedestrians are banned from all Indiana Interstates, including the Toll Road.
+
+> **Ind. Code § 9-21-17-16**
+> Sec. 16. A person may not stand in a roadway for the purpose of soliciting a ride from a person who drives a vehicle unless the person soliciting a ride is faced with an emergency on the roadway, in which case the person may secure a ride to obtain assistance.
+
+> **Ind. Code § 9-13-2-157(a)**
+> (a) Except as provided in subsection (b), "roadway" means that part of a highway improved, designed, or ordinarily used for vehicular travel.
+
+> **105 Ind. Admin. Code 9-1-2**
+> Sec. 2. Pedestrians, motorized bicycles, bicycles, and other nonmotorized traffic shall be prohibited from enumerated highways: (1) I-64; (2) I-65; (3) I-69; (4) I-70; (5) I-74; (6) I-80; (7) I-90; (8) I-94; (9) I-164; (10) I-265; (11) I-275; (12) I-465; (13) I-469; and (14) I-865; otherwise known as the "Interstate Highway System".
+
 ## Sources
 
 - [Indiana Code 2021, Title 9 (in.gov, Indiana Prosecuting Attorneys Council)](https://www.in.gov/ipac/files/Title-9-2021.pdf)

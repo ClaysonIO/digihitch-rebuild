@@ -80,6 +80,19 @@ A violation of § 63-3-1109 is a misdemeanor. A first conviction carries a fine 
 - **Shoulder:** No Mississippi case deciding whether a shoulder is part of the "roadway" under § 63-3-125(c) was checked.
 - Local ordinances (Jackson, Gulfport, etc.) were not checked.
 
+## Pocket card
+
+**What's allowed:** Stand off the travel lanes; Mississippi bans standing in the roadway to solicit a ride. The shoulder isn't expressly excluded, so stand beyond it if you can. Hitchhikers are banned from interstates and other fully controlled access highways.
+
+> **Miss. Code Ann. § 63-3-1109**
+> No person shall stand in a roadway for the purpose of soliciting a ride from the driver of any private vehicle.
+
+> **Miss. Code Ann. § 63-3-125(c)**
+> (c) "Roadway" means that portion of a highway improved, designed, or ordinarily used for vehicular travel.
+
+> **37 Miss. Code R. § 1-7501-09001-311**
+> The use of any fully controlled access facility by pedestrians, bicycles, hitchhikers, ridden or herded animals and animal drawn vehicles is prohibited.
+
 ## Sources
 
 - [Miss. Code § 63-3-1109 (FindLaw)](https://codes.findlaw.com/ms/title-63-motor-vehicles-and-traffic-regulations/ms-code-sect-63-3-1109.html)

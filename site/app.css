@@ -16,6 +16,8 @@
   --restricted-bg: #fbefc9;
   --illegal: #a32121;
   --illegal-bg: #f9dede;
+  --unverified: #5b6170;
+  --unverified-bg: #e6e8ee;
   --quote-bg: #faf7ee;
   --radius: 10px;
   --shadow: 0 1px 2px rgba(0,0,0,.06), 0 2px 8px rgba(0,0,0,.04);
@@ -36,6 +38,8 @@
     --restricted-bg: #3a2f10;
     --illegal: #ff8a80;
     --illegal-bg: #3d1a1a;
+    --unverified: #b4bac8;
+    --unverified-bg: #2b2f38;
     --quote-bg: #1b1d20;
     --asphalt: #0f1012;
     color-scheme: dark;
@@ -124,6 +128,9 @@ main { padding-top: 24px; padding-bottom: 48px; min-height: 60vh; outline: none;
 .pill.legal { color: var(--legal); background: var(--legal-bg); }
 .pill.restricted { color: var(--restricted); background: var(--restricted-bg); }
 .pill.illegal { color: var(--illegal); background: var(--illegal-bg); }
+.pill.unverified { color: var(--unverified); background: var(--unverified-bg); }
+.abbr.unverified { background: var(--unverified-bg); color: var(--unverified); }
+.status-line.unverified { border-left-color: var(--unverified); }
 .abbr.legal { background: var(--legal-bg); color: var(--legal); }
 .abbr.restricted { background: var(--restricted-bg); color: var(--restricted); }
 .abbr.illegal { background: var(--illegal-bg); color: var(--illegal); }

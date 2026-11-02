@@ -19,7 +19,7 @@ country: US                      # US or CA
 jurisdiction: Utah
 abbreviation: UT
 region: Mountain West            # see REGIONS in scripts/build-laws.mjs
-status: legal                    # legal | restricted | illegal
+status: legal                    # legal | restricted | illegal | unverified
 freeway_pedestrians: prohibited  # prohibited | restricted | allowed | unclear
 last_verified: 2026-11-02
 key_citations:
@@ -35,6 +35,7 @@ What the status values mean:
 | `legal` | No statewide or provincial law specifically restricts soliciting rides. General pedestrian rules, such as freeway bans, may still apply. |
 | `restricted` | Soliciting rides is only limited in certain places. The usual case: you may not stand *in the roadway*, but the shoulder or curb is fine. |
 | `illegal` | Soliciting rides is prohibited broadly, for example anywhere on a highway including the shoulder. |
+| `unverified` | The law text could not be retrieved and confirmed yet, so no conclusion is drawn. |
 
 **Research rule: don't guess.** Every quote must come from a source you actually retrieved and linked, preferably the official legislature or government website. If something can't be verified, record it under `## Unverified / open questions`.
 

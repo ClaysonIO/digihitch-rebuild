@@ -8,11 +8,13 @@
     legal: "Legal",
     restricted: "Restricted",
     illegal: "Illegal",
+    unverified: "Unverified",
   };
   const STATUS_HELP = {
     legal: "No statewide/provincial law specifically restricts soliciting rides. General pedestrian rules (like freeway bans) still apply.",
     restricted: "Soliciting rides is limited to certain places or ways. Usually you can't stand in the roadway itself, but the shoulder or curb is fine.",
     illegal: "Soliciting rides is prohibited broadly, for example anywhere on a highway including the shoulder.",
+    unverified: "We couldn't retrieve and confirm the law text yet. No conclusion is drawn.",
   };
   const FREEWAY_TEXT = {
     prohibited: "Pedestrians prohibited on freeways",
@@ -58,6 +60,10 @@
     document.title = t ? `${t} — digihitch` : "digihitch — Hitchhiking Laws";
   }
 
+  function statusesInUse() {
+    return Object.keys(STATUS_TEXT).filter((s) => s !== "unverified" || DATA.jurisdictions.some((j) => j.status === s));
+  }
+
   function byCode(code) {
     return DATA.jurisdictions.find((j) => j.code === code);
   }
@@ -78,11 +84,12 @@
         <div class="stat" role="listitem"><div class="n" style="color:var(--legal)">${count("legal")}</div><div class="l">legal</div></div>
         <div class="stat" role="listitem"><div class="n" style="color:var(--restricted)">${count("restricted")}</div><div class="l">restricted</div></div>
         <div class="stat" role="listitem"><div class="n" style="color:var(--illegal)">${count("illegal")}</div><div class="l">illegal</div></div>
+        ${count("unverified") ? `<div class="stat" role="listitem"><div class="n" style="color:var(--unverified)">${count("unverified")}</div><div class="l">unverified</div></div>` : ""}
       </div>
       <details class="no-print">
         <summary>What do the labels mean?</summary>
         <div class="legend">
-          ${["legal", "restricted", "illegal"].map((s) => `<div>${pill(s)}<br>${esc(STATUS_HELP[s])}</div>`).join("")}
+          ${statusesInUse().map((s) => `<div>${pill(s)}<br>${esc(STATUS_HELP[s])}</div>`).join("")}
         </div>
       </details>
       <div class="controls" role="search">
@@ -92,7 +99,7 @@
         </div>
         <select id="status" aria-label="Status">
           <option value="all">Any status</option>
-          ${["legal", "restricted", "illegal"].map((s) => `<option value="${s}" ${state.status === s ? "selected" : ""}>${STATUS_TEXT[s]}</option>`).join("")}
+          ${statusesInUse().map((s) => `<option value="${s}" ${state.status === s ? "selected" : ""}>${STATUS_TEXT[s]}</option>`).join("")}
         </select>
       </div>
       <div id="results"></div>`;
@@ -253,7 +260,7 @@
         <p>This rebuild starts with that law reference. Every entry was researched from primary sources: the official legislature or government website wherever possible. Each entry quotes the law verbatim, links to it, and explains in plain English what it means for a hitchhiker.</p>
         <h2>How to read an entry</h2>
         <ul>
-          ${["legal", "restricted", "illegal"].map((s) => `<li>${pill(s)} ${esc(STATUS_HELP[s])}</li>`).join("")}
+          ${statusesInUse().map((s) => `<li>${pill(s)} ${esc(STATUS_HELP[s])}</li>`).join("")}
         </ul>
         <p>Most "no soliciting rides" laws say you may not stand <em>in the roadway</em>. "Roadway" is usually defined as the part of the road used for vehicle travel, <em>not</em> the shoulder. Each entry quotes the local definition where it matters.</p>
         <p>Local cities and counties, turnpike authorities, and parks can have stricter rules than the state or province.</p>

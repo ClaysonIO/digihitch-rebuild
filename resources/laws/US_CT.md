@@ -26,7 +26,7 @@ Connecticut's statute, Conn. Gen. Stat. § 53-181, is unusually clear for hitchh
 
 So on ordinary roads, hitchhiking from the shoulder is expressly lawful.
 
-Limited-access highways (the interstates, the Merritt and Wilbur Cross Parkways and other designated routes) are governed by Office of the State Traffic Administration regulations, which apply to the whole "highway right-of-way":
+Limited-access highways (state highways designated under § 13b-27; the regulations also name "parkways") are governed by Office of the State Traffic Administration regulations, which apply to the whole "highway right-of-way":
 
 - Pedestrians are prohibited except in emergencies or on facilities provided for them (§ 14-298-238).
 - "Hitchhiking, soliciting of rides and loitering are prohibited within the highway right of way", and "the picking up of hitchhikers within the highway right of way is prohibited" (§ 14-298-243).
@@ -53,7 +53,7 @@ In practice: hitchhike from the shoulder of the local road or the approach to an
 >
 > (90) "Shoulder" means that portion of a highway immediately adjacent and contiguous to the travel lanes or main traveled portion of the roadway;
 
-**What it means:** The shoulder is the strip right next to the travel lanes, and that is where § 53-181 lets you stand. Limited-access highways are designated by the DOT Commissioner. They include the interstates and the parkways.
+**What it means:** The shoulder is the strip right next to the travel lanes, and that is where § 53-181 lets you stand. Limited-access highways are the routes designated under § 13b-27. CTDOT publishes the list, which was not retrieved for this page. Treat any interstate or expressway with on-ramps as limited-access.
 
 ### Regs. Conn. State Agencies § 14-298-243: Hitchhiking
 

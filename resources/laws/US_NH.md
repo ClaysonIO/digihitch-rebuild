@@ -24,7 +24,7 @@ New Hampshire's RSA 265:40 has the usual rule ("No person shall stand on the tra
 
 So in New Hampshire you may hitchhike even along an interstate or turnpike, provided you stand off the pavement, on the grass or gravel beyond any paved shoulder. Note the difference between the two paragraphs. The paragraph I ban covers only the "travelled portion", but the paragraph III safe harbor requires you to be off the "paved portion". A paved shoulder is safest treated as off-limits.
 
-A violation of a Chapter 265 rule is a "violation" (RSA 265:2), which is a non-criminal offense.
+Breaking a Chapter 265 rule is classed as a "violation" (RSA 265:2), not a misdemeanor.
 
 No New Hampshire statute or NHDOT rule banning pedestrians from limited-access highways was found for this page, so `freeway_pedestrians` is marked unclear. Obey any posted signs.
 

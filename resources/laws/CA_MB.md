@@ -97,11 +97,11 @@ Penalty: there is no specific hitchhiking offence. A breach of the pedestrian ru
 
 > 50 Section 144 is repealed.
 
-The current consolidation lists "144 [Repealed] S.M. 2018, c. 10, Sch. B, s. 50" in the Pedestrians division (ss. 138 to 144), right after the sidewalk rule in s. 143. The content of the former s. 144 was not retrieved (see below).
+The current consolidation shows "144 [Repealed] S.M. 2018, c. 10, Sch. B, s. 50" right after the pedestrian sections (headed "138-143 Pedestrians" in the table of contents) and before Division IV (bicycles). The same 2018 Act removed "mobility vehicle" wording throughout the HTA. The content of the former s. 144 was not retrieved (see below).
 
 ## Unverified / open questions
 
-- **Former s. 144:** Its text was not retrieved. Archived and CanLII copies were blocked from this environment. Because it sat in the Pedestrians division, it may have been a ride-soliciting rule, but this is unconfirmed. Do not rely on it either way.
+- **Former s. 144:** Its text was not retrieved. Archived and CanLII copies were blocked from this environment. It is not known whether it dealt with pedestrians, soliciting rides or something else (for example, mobility vehicles). The repeal does not change today's answer: the current Act has no ride-soliciting rule.
 - Regulations under The Highway Traffic Act and The Transportation Infrastructure Act were not searched individually for pedestrian bans on particular provincial highways.
 - Winnipeg traffic by-laws were not checked.
 

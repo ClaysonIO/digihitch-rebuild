@@ -56,6 +56,14 @@ What still applies to hitchhikers:
 
 **What it means:** The shoulder is not part of the roadway. This matters for any local ordinance written in "roadway" terms.
 
+### SDCL § 22-18-35: Disorderly conduct
+
+**Source:** [South Dakota Legislature, SDCL 22-18-35](https://sdlegislature.gov/Statutes/22-18-35)
+
+> Any person who intentionally causes serious public inconvenience, annoyance, or alarm to any other person, or creates a risk thereof by: [...] (4) Obstructing vehicular or pedestrian traffic; is guilty of disorderly conduct. Disorderly conduct is a Class 2 misdemeanor. [...]
+
+**What it means:** Hitchhiking itself is legal. Deliberately getting in the way of traffic, for example by stepping into the lane to make cars stop, can be charged as disorderly conduct.
+
 ### SDCL § 22-6-2: Misdemeanor classes and penalties
 
 **Source:** [South Dakota Legislature, SDCL 22-6-2](https://sdlegislature.gov/Statutes/22-6-2)
@@ -72,7 +80,6 @@ Search results point to a Sioux Falls ordinance making it unlawful "to stand in 
 
 - I found no Transportation Commission rule under § 32-26-11 in ARSD chapter 70:01:03 (Traffic safety). I did not search every chapter of ARSD Title 70. If DOT has posted "pedestrians prohibited" signs at interstate ramps without a rule, their enforceability is unclear. That is why `freeway_pedestrians` is marked `unclear`.
 - SDCL 32-27-5.1 was "Repealed by SL 1989, ch 255, § 183". I could not determine what it said.
-- I did not retrieve the text of SDCL 22-18-35 (disorderly conduct). The obstruction language above comes from a search of the chapter text: "(4) Obstructing vehicular or pedestrian traffic; is guilty of disorderly conduct. Disorderly conduct is a Class 2 misdemeanor".
 
 ## Sources
 
@@ -80,7 +87,8 @@ Search results point to a Sioux Falls ordinance making it unlawful "to stand in 
 - [SDCL 32-27-5](https://sdlegislature.gov/Statutes/32-27-5)
 - [SDCL 32-26-11](https://sdlegislature.gov/Statutes/32-26-11)
 - [SDCL 32-14-1](https://sdlegislature.gov/Statutes/32-14-1)
+- [SDCL 22-18-35](https://sdlegislature.gov/Statutes/22-18-35)
 - [SDCL 22-6-2](https://sdlegislature.gov/Statutes/22-6-2)
-- [ARSD 70:01:03, Traffic safety](https://sdlegislature.gov/Rules/Administrative/70:01:03)
+- [ARSD 70:01:03, Traffic safety](https://sdlegislature.gov/api/Rules/70:01:03.html)
 
 > *Not legal advice. Laws change, so check the linked official source before relying on this.*

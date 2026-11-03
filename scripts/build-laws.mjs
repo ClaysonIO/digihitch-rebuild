@@ -192,7 +192,6 @@ function build() {
   entries.sort((a, b) => (order.get(a.region) - order.get(b.region)) || a.jurisdiction.localeCompare(b.jurisdiction));
 
   const out = {
-    generated: new Date().toISOString(),
     regions: REGIONS.map(([country, name]) => ({ country, name, slug: slug(name) })),
     jurisdictions: entries,
   };

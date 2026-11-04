@@ -445,6 +445,7 @@
       <div class="pc-cover-top"><span class="pc-logo">digi<b>hitch</b></span><span class="pc-kicker">Pocket law card</span></div>
       <div class="pc-cover-title">Hitchhiking laws<br><span>${esc(title)}</span></div>
       <ul class="pc-index">${js.map((j) => `<li><b>${esc(j.abbreviation)}</b> ${esc(STATUS_TEXT[j.status] || j.status)}</li>`).join("")}</ul>
+      <p class="pc-ai-note">Compiled with the help of AI. We expect it to be accurate, but check the law text against the official source before relying on it.</p>
       <div class="pc-cover-foot">Laws checked ${esc(verified)} · ${esc(SITE_URL())}</div>`;
     return p;
   }
